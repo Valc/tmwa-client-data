@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <sprite variants="135" variant_offset="1">
   <imageset name="polearm-bluntyellow" src="graphics/sprites/equipment/weapons/polearm-bluntyellow.png|R" width="128" height="128"/>
-  <action name="default" imageset="polearm-blunt"/>
-  <action name="stand" imageset="polearm-blunt">
+  <action name="default" imageset="polearm-bluntyellow"/>
+  <action name="stand" imageset="polearm-bluntyellow">
     <animation direction="down">
       <frame offsetY="32" index="0"/>
     </animation>
