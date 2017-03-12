@@ -106,7 +106,7 @@
       <frame index="2" offsetX="0" offsetY="-12"/>
     </animation>
     <animation direction="right">
-      <frame index="3" offsetX="-3" offsetY="-9"/>
+      <frame index="3" offsetX="-5" offsetY="-9"/>
     </animation>
   </action>
   <action name="dead" imageset="base">
