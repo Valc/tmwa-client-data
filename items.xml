@@ -2,10 +2,10 @@
 <items>
   <include name="items/hairsprite/_include.xml"/>
   <include name="items/racesprite/_include.xml"/>
-  <include name="items/pets/_include.xml"/>
   <include name="items/misc/_include.xml"/>
   <include name="items/usable/_include.xml"/>
   <include name="items/generic/_include.xml"/>
+  <include name="items/pets/_include.xml"/>
   <include name="items/equip-head/_include.xml"/>
   <include name="items/equip-1hand/_include.xml"/>
   <include name="items/equip-torso/_include.xml"/>
@@ -17,4 +17,74 @@
   <include name="items/equip-shield/_include.xml"/>
   <include name="items/equip-charm/_include.xml"/>
   <include name="items/equip-ring/_include.xml"/>
+    <item id="8036"
+        image="pets/pet-dog-icon.png"
+        name="Hound"
+        description="There's nothing like having a sturdy dog at your side (Str  +50)."
+        effect="HP +100"
+        str="50"
+        type="equip-ring"
+        weight="1"
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>pets/pet-dog.xml</sprite>
+    </item>
+    <item id="8037"
+        image="pets/fairy-green.png"
+        name="Green Fairy"
+        description="A green fairy (Luck  +50)."
+        effect="M. Attack +20 / HP +100"
+        luck="30"
+        type="equip-ring"
+        weight="1"
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>pets/green-fairy.xml</sprite>
+    </item>
+    <item id="8038"
+        image="pets/fairy-red.png"
+        name="Red Fairy"
+        description="A red fairy (Luck  +50)."
+        effect="M. Attack +20 / HP +100"
+        luck="30"
+        type="equip-ring"
+        weight="1"
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>pets/pet-fairy-red.xml</sprite>
+    </item>
+    <item id="8039"
+        image="pets/fairy-blue.png"
+        name="Blue Fairy"
+        description="A blue fairy (Luck  +50)."
+        effect="M. Attack +20 / HP +100"
+        luck="30"
+        type="equip-ring"
+        weight="1"
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>pets/pet-fairy-blue.xml</sprite>
+    </item>
+    <item id="8040"
+        image="pets/cat-icon.png"
+        name="Cat"
+        description="A cat, purrrr... (Agi +50)."
+        effect="HP +100"
+        agi="50"
+        type="equip-ring"
+        weight="1"
+        sellProtected="true">
+        <sprite>pets/pet-cat.xml</sprite>
+    </item>
+    <item id="8041"
+        image="pets/ratte.png"
+        name="Rat"
+        description="Eeeek, a rat! (dex +50)."
+        effect="HP +100"
+        dex="50"
+        type="equip-ring"
+        weight="1"
+        sellProtected="true">
+        <sprite>pets/pet-rat.xml</sprite>
+    </item>
 </items>
