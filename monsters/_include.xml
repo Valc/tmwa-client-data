@@ -128,4 +128,5 @@
   <include name="monsters/monster1131_ManaBug.xml"/>
   <include name="monsters/monster1132_LavaSlime.xml"/>
   <include name="monsters/monster1701_Dragon.xml"/>
+  <include name="monsters/monster1224_GoldenScorpion.xml"/>
 </monsters>
