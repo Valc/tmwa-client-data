@@ -1,0 +1,12 @@
+<item id="8038"
+      image="pets/fairy-red.png"
+      name="Red Fairy"
+      description="A red fairy (Luck +30)."
+      effect="M. Attack +20 / HP +100"
+      luck="30"
+      type="equip-ring"
+      weight="1"
+      max-per-slot="1"
+      sellProtected="true">
+ <sprite>pets/pet-fairy-red.xml</sprite>
+</item>
