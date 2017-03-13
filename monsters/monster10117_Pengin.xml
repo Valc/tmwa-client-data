@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <monsters offset="0">
- <monster id="1117" name="Penguin">
+ <monster id="10117" name="Penguin">
     <sprite>monsters/monster-whirlybird.xml</sprite>
  </monster>
 </monsters>
