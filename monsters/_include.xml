@@ -129,13 +129,13 @@
   <include name="monsters/monster1132_LavaSlime.xml"/>
   <include name="monsters/monster1701_Dragon.xml"/>
   <include name="monsters/monster1224_GoldenScorpion.xml"/>
-  <include name="monsters/monster9116_SnowFlake.xml"/>
-  <include name="monsters/monster9117_Penguin.xml"/>
-  <include name="monsters/monster9118_TreasureBox.xml"/>
-  <include name="monsters/monster9119_BlackSlime.xml"/>
-  <include name="monsters/monster9120_FafiDragon.xml"/>
-  <include name="monsters/monster9121_BlackMamba.xml"/>
-  <include name="monsters/monster9122_RedDragon.xml"/>
-  <include name="monsters/monster9123_SmokeDragon.xml"/>
-  <include name="monsters/monster9125_ChocolateSlime.xml"/>
+  <include name="monsters/monster1716_SnowFlake.xml"/>
+  <include name="monsters/monster1717_Penguin.xml"/>
+  <include name="monsters/monster1718_TreasureBox.xml"/>
+  <include name="monsters/monster1719_BlackSlime.xml"/>
+  <include name="monsters/monster1720_FafiDragon.xml"/>
+  <include name="monsters/monster1721_BlackMamba.xml"/>
+  <include name="monsters/monster1722_RedDragon.xml"/>
+  <include name="monsters/monster1723_SmokeDragon.xml"/>
+  <include name="monsters/monster1725_ChocolateSlime.xml"/>
 </monsters>

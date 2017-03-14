@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
- <monster id="9122" name="Red Dragon">
-   <sprite>monsters/snake.xml|#151515,505050,e02020;#a01010;#ffffff</sprite>
- </monster>
-</monsters>
