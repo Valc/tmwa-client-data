@@ -242,4 +242,12 @@
   <include name="items/equip-torso/item5138_OrangeContributorShirt.xml"/>
   <include name="items/equip-torso/item5139_PurpleContributorShirt.xml"/>
   <include name="items/equip-torso/item5140_DarkGreenContributorShirt.xml"/>
+  <include name="items/equip-torso/item8029_RoyalSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8049_BlackMambaArmor.xml"/>
+  <include name="items/equip-torso/item8055_DarkBlueSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8056_YellowSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8057_GreenSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8058_DarkGreenSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8059_OrangeSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8060_PinkSaviorArmor.xml"/> 
 </items>
