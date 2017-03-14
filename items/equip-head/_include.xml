@@ -190,4 +190,12 @@
   <include name="items/equip-head/item5129_UnderworldMask.xml"/>
   <include name="items/equip-head/item5130_Phylactery.xml"/>
   <include name="items/equip-head/item11217_GoldenCatEars.xml"/>
+  <include name="items/equip-head/item8012_CenturionHelm.xml"/>
+  <include name="items/equip-head/item8013_GladiatorHelm.xml"/>
+  <include name="items/equip-head/item8014_MajorHelmet.xml"/>
+  <include name="items/equip-head/item8015_SoldierHelmet.xml"/>
+  <include name="items/equip-head/item8016_NinjaMask.xml"/>
+  <include name="items/equip-head/item8017_UnsilveredCrusadeHelmet.xml"/>
+  <include name="items/equip-head/item8018_VikingHelmet.xml"/>
+  <include name="items/equip-head/item8052_BlackMambaHelm.xml"/>
 </items>
