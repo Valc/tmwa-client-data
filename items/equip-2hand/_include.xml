@@ -21,4 +21,5 @@
   <include name="items/equip-2hand/item906_KidBook.xml"/>
   <include name="items/equip-2hand/item1200_Bow.xml"/>
   <include name="items/equip-2hand/item10758_YellowLaserStaff.xml"/>
+  <include name="items/equip-2hand/item8077_MiereAxe.xml"/>
 </items>
