@@ -17,6 +17,54 @@
   <include name="items/equip-shield/_include.xml"/>
   <include name="items/equip-charm/_include.xml"/>
   <include name="items/equip-ring/_include.xml"/>
+    <item id="8032"
+        image="equipment/wings/angelwings.png"
+        name="Angel Wings"
+        description="Wings similar to those of an angel."
+        effect="+% Defense"
+        type="equip-ring"
+        weight="13"
+        defense=""
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>equipment/wings/angelwings.xml</sprite>
+    </item>
+    <item id="8033"
+        image="equipment/wings/daemonwings.png"
+        name="Daemon Wings"
+        description="Some scary looking wings."
+        effect="+% Attack"
+        type="equip-ring"
+        weight="13"
+        attack=""
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>equipment/wings/daemonwings.xml</sprite>
+    </item>
+    <item id="8034"
+        image="equipment/wings/dragonflywings.png"
+        name="Dragonfly Wings"
+        description="Wings of a dragonfly."
+        effect="+% Attack"
+        type="equip-ring"
+        weight="13"
+        attack=""
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>equipment/wings/dragonflywings.xml</sprite>
+    </item>
+    <item id="8035"
+        image="equipment/wings/butterflywings.png"
+        name="Butterfly Wings"
+        description="Wings of A butterfly."
+        effect="+% Attack"
+        type="equip-ring"
+        weight="13"
+        attack=""
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>equipment/wings/butterflywings.xml</sprite>
+    </item>
     <item id="8036"
         image="pets/pet-dog-icon.png"
         name="Hound"
