@@ -57,4 +57,6 @@
   <include name="items/equip-legs/item2187_OrangeCottonTrousers.xml"/>
   <include name="items/equip-legs/item2188_PurpleCottonTrousers.xml"/>
   <include name="items/equip-legs/item2189_DarkGreenCottonTrousers.xml"/>
+  <include name="items/equip-legs/item8004_SaviorPants.xml"/>
+  <include name="items/equip-legs/item8053_BlackMambaPants.xml"/>
 </items>
