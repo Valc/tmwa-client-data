@@ -24,4 +24,5 @@
   <include name="items/equip-arms/item2167_OrangeCottonGloves.xml"/>
   <include name="items/equip-arms/item2168_PurpleCottonGloves.xml"/>
   <include name="items/equip-arms/item2169_DarkGreenCottonGloves.xml"/>
+  <include name="items/equip-arms/item8051_BlackMambaGloves.xml"/>
 </items>
