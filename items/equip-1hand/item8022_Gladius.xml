@@ -16,8 +16,6 @@
         attack-action="attack"
         attack-range="1"
         weight="2000">
-        <sprite>weapon-dagger.xml</sprite>
-        <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
-        <sound event="hit">weapons/swords/short-sword-hit1.ogg</sound>
+        <sprite>equipment/weapons/dagger.xml</sprite>
     </item>
 </items>

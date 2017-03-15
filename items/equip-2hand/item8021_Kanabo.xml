@@ -16,6 +16,6 @@
         attack-action="attack"
         attack-range="1"
         weight="500">
-        <sprite>kanabo.xml</sprite>
+        <sprite>equipment/weapons/kanabo.xml</sprite>
     </item>
 </items>
