@@ -6,8 +6,14 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
-  <include name="items/equip-shield/item601_SteelShield.xml"/>
-  <include name="items/equip-shield/item602_WoodenShield.xml"/>
-  <include name="items/equip-shield/item603_LeatherShield.xml"/>
-  <include name="items/equip-shield/item8005_Buckler.xml"/>
+    <item id="8005"
+        image="equipment/shield/buckler.png"
+        name="Buckler"
+        description="A wooden shield that can be used effectively for defense."
+        effect="M. Attack -70"
+        defense="5"
+        type="equip-shield"
+        weight="2500">
+        <sprite>equipment/armor/shield-buckler.xml</sprite>
+    </item>
 </items>
