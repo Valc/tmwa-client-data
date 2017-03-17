@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="200" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="200" tilewidth="32" tileheight="32" nextobjectid="4">
  <properties>
   <property name="minimap" value="graphics/minimaps/066-1.png"/>
   <property name="music" value="mystique-forest.ogg"/>
   <property name="name" value="Isla Secreta"/>
  </properties>
- <tileset firstgid="1" name="Woodland_ground" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Woodland_ground" tilewidth="32" tileheight="32" tilecount="256" columns="16">
   <image source="../graphics/tiles/Woodland_ground.png" width="512" height="512"/>
  </tileset>
- <tileset firstgid="257" name="trans_woodland-desert2" tilewidth="32" tileheight="32">
+ <tileset firstgid="257" name="trans_woodland-desert2" tilewidth="32" tileheight="32" tilecount="176" columns="16">
   <image source="../graphics/tiles/trans_woodland-desert2.png" width="512" height="352"/>
  </tileset>
- <tileset firstgid="433" name="Woodland_x2" tilewidth="32" tileheight="32">
+ <tileset firstgid="433" name="Woodland_x2" tilewidth="32" tileheight="32" tilecount="64" columns="16">
   <image source="../graphics/tiles/Woodland_x2.png" width="512" height="128"/>
  </tileset>
- <tileset firstgid="497" name="Woodland_x3" tilewidth="32" tileheight="32">
+ <tileset firstgid="497" name="Woodland_x3" tilewidth="32" tileheight="32" tilecount="96" columns="16">
   <image source="../graphics/tiles/Woodland_x3.png" width="512" height="192"/>
  </tileset>
- <tileset firstgid="593" name="Woodland_x4" tilewidth="32" tileheight="32">
+ <tileset firstgid="593" name="Woodland_x4" tilewidth="32" tileheight="32" tilecount="64" columns="16">
   <image source="../graphics/tiles/Woodland_x4.png" width="512" height="128"/>
  </tileset>
- <tileset firstgid="657" name="Woodland_x5" tilewidth="32" tileheight="32">
+ <tileset firstgid="657" name="Woodland_x5" tilewidth="32" tileheight="32" tilecount="80" columns="16">
   <image source="../graphics/tiles/Woodland_x5.png" width="512" height="160"/>
  </tileset>
- <tileset firstgid="737" name="Woodland_x8" tilewidth="32" tileheight="32">
+ <tileset firstgid="737" name="Woodland_x8" tilewidth="32" tileheight="32" tilecount="128" columns="16">
   <image source="../graphics/tiles/Woodland_x8.png" width="512" height="256"/>
  </tileset>
- <tileset firstgid="865" name="Woodland_village" tilewidth="32" tileheight="32">
+ <tileset firstgid="865" name="Woodland_village" tilewidth="32" tileheight="32" tilecount="256" columns="16">
   <image source="../graphics/tiles/Woodland_village.png" width="512" height="512"/>
  </tileset>
- <tileset firstgid="1121" name="Woodland_village_x2" tilewidth="32" tileheight="32">
+ <tileset firstgid="1121" name="Woodland_village_x2" tilewidth="32" tileheight="32" tilecount="32" columns="16">
   <image source="../graphics/tiles/Woodland_village_x2.png" width="512" height="64"/>
  </tileset>
- <tileset firstgid="1153" name="collision" tilewidth="32" tileheight="32">
+ <tileset firstgid="1153" name="collision" tilewidth="32" tileheight="32" tilecount="2" columns="2">
   <image source="../graphics/tiles/collision.png" width="64" height="32"/>
  </tileset>
- <tileset firstgid="1155" name="vigie" tilewidth="32" tileheight="32">
+ <tileset firstgid="1155" name="vigie" tilewidth="32" tileheight="32" tilecount="27" columns="3">
   <image source="../graphics/tiles/vigie.png" width="96" height="288"/>
   <tile id="25">
    <properties>
@@ -1273,5 +1273,9 @@
 1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154,1154
 </data>
  </layer>
- <objectgroup name="Objects"/>
+ <objectgroup name="Objects">
+  <object id="1" name="ToHouse" type="warp" x="2974.67" y="1214.67" width="32" height="32"/>
+  <object id="2" name="graphics/particles/bonfire.particle.xml" type="PARTICLE_EFFECT" x="3553" y="3776" width="32" height="32"/>
+  <object id="3" name="Mouboo" type="mob" x="4230.67" y="1156" width="152" height="88"/>
+ </objectgroup>
 </map>
