@@ -2,7 +2,7 @@
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="200" tilewidth="32" tileheight="32">
  <properties>
   <property name="minimap" value="graphics/minimaps/066-1.png"/>
-  <property name="name" value="Lost island"/>
+  <property name="name" value="Lost Island"/>
  </properties>
  <tileset firstgid="1" name="Woodland_ground" tilewidth="32" tileheight="32">
   <image source="../graphics/tiles/Woodland_ground.png" width="512" height="512"/>
@@ -1460,7 +1460,7 @@
  </layer>
  <objectgroup name="Objects">
   <object name="graphics/particles/bonfire.particle.xml" type="PARTICLE_EFFECT" x="3553" y="3776" width="32" height="32"/>
-  <object name="Lost island Shop" type="warp" x="2977" y="1247" width="29" height="30">
+  <object name="Lost Island Shop" type="warp" x="2977" y="1247" width="32" height="32">
    <properties>
     <property name="dest_map" value="066-2"/>
     <property name="dest_tile_x" value="17"/>
