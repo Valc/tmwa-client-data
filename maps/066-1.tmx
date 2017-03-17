@@ -2,7 +2,6 @@
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="200" tilewidth="32" tileheight="32">
  <properties>
   <property name="minimap" value="graphics/minimaps/066-1.png"/>
-  <property name="music" value="mystique-forest.ogg"/>
   <property name="name" value="Lost island"/>
  </properties>
  <tileset firstgid="1" name="Woodland_ground" tilewidth="32" tileheight="32">
