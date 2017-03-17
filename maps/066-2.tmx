@@ -3,7 +3,7 @@
  <properties>
   <property name="minimap" value="graphics/minimaps/066-2.png"/>
   <property name="music" value="night-is-calling.ogg"/>
-  <property name="name" value="Casa de Isla Perdida"/>
+  <property name="name" value="Lost island Shop"/>
  </properties>
  <tileset firstgid="1" name="woodland_indoor" tilewidth="32" tileheight="32">
   <image source="../graphics/tiles/woodland_indoor.png" width="512" height="512"/>
@@ -151,7 +151,7 @@
 </data>
  </layer>
  <objectgroup name="Objects">
-  <object name="To Secret Island" type="warp" x="545" y="536" width="32" height="32">
+  <object name="Lost Island" type="warp" x="545" y="536" width="32" height="32">
    <properties>
     <property name="dest_map" value="066-1"/>
     <property name="dest_tile_x" value="93"/>

@@ -3,7 +3,7 @@
  <properties>
   <property name="minimap" value="graphics/minimaps/066-1.png"/>
   <property name="music" value="mystique-forest.ogg"/>
-  <property name="name" value="Isla Secreta"/>
+  <property name="name" value="Lost island"/>
   <property name="overlay0image" value="graphics/images/clouds.png"/>
   <property name="overlay0parallax" value="1.0"/>
   <property name="overlay0scrollX" value="0.2"/>
@@ -1465,6 +1465,6 @@
  </layer>
  <objectgroup name="Objects">
   <object name="graphics/particles/bonfire.particle.xml" type="PARTICLE_EFFECT" x="3553" y="3776" width="32" height="32"/>
-  <object name="ToHouse" type="warp" x="2977" y="1247" width="29" height="30"/>
+  <object name="Lost island Shop" type="warp" x="2977" y="1247" width="29" height="30"/>
  </objectgroup>
 </map>
