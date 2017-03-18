@@ -4,7 +4,7 @@
   <property name="music" value="night-is-calling.ogg"/>
   <property name="name" value="Mele Island"/>
   <property name="ovelay0image" value="graphics/images/ambient/clouds.png"/>
-  <property name="overlay0parallax" value="1"/>
+  <property name="overlay0parallax" value="1.0"/>
   <property name="overlay0scrollX" value="0.2"/>
   <property name="overlay0scrollY" value="0.1"/>
  </properties>
