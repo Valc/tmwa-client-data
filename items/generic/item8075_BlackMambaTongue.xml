@@ -7,7 +7,7 @@
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
     <item id="8075"
-        image="generic/snake-tongue.png|W:#0a0a0a,e02020"
+        image="generic/snake-tongue.png|W:#373737;R:#901010;G:#1a1a1a"
         name="Black Mamba Tongue"
         description="The forked tongue of a black mamba."
         type="generic"
