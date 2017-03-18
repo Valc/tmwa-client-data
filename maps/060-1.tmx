@@ -349,4 +349,13 @@
 130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130
 </data>
  </layer>
+ <objectgroup name="Capa de Objetos 1">
+  <object name="Dragon" type="spawn" x="1233" y="766" width="262" height="195">
+   <properties>
+    <property name="eA_spawn" value="30"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1701"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>
