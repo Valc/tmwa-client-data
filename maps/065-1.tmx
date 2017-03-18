@@ -61,10 +61,18 @@
    H4sIAAAAAAAAA+3aSUoDQQCF4Y6ze3HWrcPCaanu1KN4Ic/g0aKJR3DnEzrQBjEJkXQsvw9+4rIWj6LArioAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmJ1ep6r66bXT9klgtOfs9KXebL/x9+C3yaaZV71v9jrKuz3Tkknu3XHZMyWxZ0rjDU1J3NGUxJ4piT1TGm9oSuKOpiT2TEnsmdJ4Q1Mam6Yk3h2UZF72/Pmt4NucnIW/q8099xrfCz7Vef8wrVlvqDe04eHc00xrVpvu/rDjQfAb+u5GAAAAAAAAAPhzuvV3Uv7nPx8W0mJaSstpJa2mtbTe4rlgUhv172baSttpJ+2mvbSfDtJhK6eDyRyl43SSTtNjo7N0ni7SZbpq6Ywwrut0k26rr1tudpfu00NLZwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOB/+wDEvqAR4KUBAA==
   </data>
  </layer>
- <layer name="Collision" width="180" height="150">
+ <layer name="Collision" width="180" height="150" visible="0">
   <data encoding="base64" compression="gzip">
    H4sIAAAAAAAAA+3Uy27cMBAEQOf/T/njwAdfjKxEiY8eStVAHQLviiNOb/7++fr6CwAAAAAAAAAAAAAAAAAAAAAAAAAAAGyjJekZocWVpGeFFjrN04xM+l1gdtLvx7usSvo9eYe7XdRrqurp4Yik35/1Zu59RO9GJn3XrDFr1yO6Njvpu2dO72Y9d6ek98C4vq044/d5VZPeC2N6tuqc1k71pPf7P8+gttX7m5FZzz06j3oSe3tS0vsj3+endfo76T2S31MqR2f3zpXe6Zu17POJfV6R9G7fpsJenp70jt+iyk7u9GPEZ1Ynve8nq7aL1bk7T++s6b0/0dX7X7mH2akwR3r/T7LDDmamwgxX5uDefs4+U2nWnlSY4c48jN/Np2d/Ois9b+s7JHp8ZSaOd9Szt6v7X9nn1u9W6fHRPNTb00+qz3c3I+dP92QXo+56xOd36W/it/ZzXrovlV29y0//np3W81bN1dPnnhl1ur/LUis6rcc75mhXOt3W52TfV5+9+2873aO0o3uplGrzVE26T2k99ybnObun//396t2mO1RFzx3OyOjf3FuS7lEF1bLbvJWS7lIFlbLjzJWS7lIFVVJl7tHPvvO8nhnSfare5VWdr9Ln1lkT3736nHS/KvZ5VXae/TtVZ3qL1vtYldl9rti32Ul3rFqfV2b3+Xsy633SHXtzp3eevWrS/dqxzyOf88Qu98zb+67pfu3a6ZHZbd6qSfeqWp9//02X9kq6V9X6XDWzZz67n9V3dndX6V7p9HmuzHrWyWr38/ucnlnSfUo7u9tqaZnv0/vt8rvvOT/dpwp2Tuv8O96VLq/bUZXfwU53NjPpDlWzS9L3VO3e0u9fWfWk7yd5d+n321XVpO9lxf2lZ3+i1Wk5M30n7G9mP698P30PPMvsHJ2Rfnee7U4n7/QbVmrtpd6yE//v8lT6CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADP9w/XrSFb4KUBAA==
   </data>
  </layer>
- <objectgroup name="Objects"/>
+ <objectgroup name="Objects">
+  <object name="To No Name Cave" type="warp" x="2022" y="1763" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="065-2"/>
+    <property name="dest_tile_x" value="102"/>
+    <property name="dest_tile_y" value="84"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>
