@@ -240,4 +240,6 @@
   <include name="items/generic/item5125_UnderworldKey.xml"/>
   <include name="items/generic/item5126_EmptyJar.xml"/>
   <include name="items/generic/item5127_JarofOwnBlood.xml"/>
+  <include name="items/generic/item8074_BlackMambaSkin.xml"/>
+  <include name="items/generic/item8075_BlackMambaTongue.xml"/>
 </items>
