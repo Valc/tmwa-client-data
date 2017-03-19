@@ -135,6 +135,18 @@
         sellProtected="true">
         <sprite>pets/pet-rat.xml</sprite>
     </item>
+    <item id="8042"
+        image="pets/cat-black.png"
+        name="Black Cat"
+        description="A black cat, purrrr... (int +25 vit +50 )."
+        effect="HP +100"
+        int="25"
+        vit="50"
+        type="equip-ring"
+        weight="1"
+        sellProtected="true">
+        <sprite>pets/pet-black-cat.xml</sprite>
+    </item>
   <item id="3307"
     image="equipment/head/armor-head-mascara-aranha.png"
     name="Spidey Mask"
@@ -182,7 +194,7 @@
   </item>
   <item id="3312"
     image="equipment/head/armor-head-mascara-garras.png"
-    name="Claws Mask"
+    name="Wolfverine Mask"
     description="Mask of your favorite claw hero."
     type="equip-head"
     weight="30"
@@ -227,7 +239,7 @@
   </item>
   <item id="3317"
     image="equipment/head/armor-head-mascara-ferro.png"
-    name="IronMask"
+    name="Iron Mask"
     description="Iron mask with laser eyes."
     type="equip-head"
     weight="30"
