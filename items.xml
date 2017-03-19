@@ -138,10 +138,10 @@
     <item id="8042"
         image="pets/cat-black.png"
         name="Black Cat"
-        description="A black cat, purrrr... (int +25 vit +50 )."
+        description="A black cat, purrrr... (int +50 )."
         effect="HP +100"
-        int="25"
-        vit="50"
+        int="50"
+        vit="100"
         type="equip-ring"
         weight="1"
         sellProtected="true">
