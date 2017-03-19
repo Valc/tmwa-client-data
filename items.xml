@@ -135,4 +135,227 @@
         sellProtected="true">
         <sprite>pets/pet-rat.xml</sprite>
     </item>
+  <item id="3307"
+    image="equipment/head/armor-head-mascara-aranha.png"
+    name="Máscara Aranha"
+    description="Máscara do seu herói aranha favorito. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-aranha.xml</sprite>
+  </item>
+  <item id="3308"
+    image="equipment/head/armor-head-mascara-ciclope.png"
+    name="Máscara Ciclope"
+    description="Um monstro de um olho só que habita em ilhas distantes. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-ciclope.xml</sprite>
+  </item>
+  <item id="3309"
+    image="equipment/head/armor-head-mascara-corey.png"
+    name="Máscara Corey"
+    description="Para você abalar neste Halloween. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-corey.xml</sprite>
+  </item>
+  <item id="3310"
+    image="equipment/head/armor-head-mascara-espantalho-cabelo.png"
+    name="Máscara Espantalho Cabeludo"
+    description="Um espantalho que geralmente afasta corvos, mas que pode se tornar muito perigoso. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-espantalho-cabelo.xml</sprite>
+  </item>
+  <item id="3311"
+    image="equipment/head/armor-head-mascara-frank.png"
+    name="Máscara Frank"
+    description="Ele é verde e assustador. Mas se você não está devendo na loja dele, não há o que temer! Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-frank.xml</sprite>
+  </item>
+  <item id="3312"
+    image="equipment/head/armor-head-mascara-garras.png"
+    name="Máscara Garras"
+    description="Máscara do seu herói de garras favorito. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-garras.xml</sprite>
+  </item>
+  <item id="3313"
+    image="equipment/head/armor-head-mascara-jason.png"
+    name="Máscara Jasoon"
+    description="Para você aterrorizar neste Halloween. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-jason.xml</sprite>
+  </item>
+  <item id="3314"
+    image="equipment/head/armor-head-mascara-joey.png"
+    name="Máscara Joey"
+    description="Para você abalar neste Halloween. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-joey.xml</sprite>
+  </item>
+  <item id="3315"
+    image="equipment/head/armor-head-mascara-monstro-pedra.png"
+    name="Máscara Monstro de Pedra"
+    description="Monstro de pedra, que vive em regiões montanhosas e que dificilmente é visto. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-monstro-pedra.xml</sprite>
+  </item>
+  <item id="3316"
+    image="equipment/head/armor-head-mascara-ninja.png"
+    name="Máscara Ninja"
+    description="Máscara Ninja. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-ninja.xml</sprite>
+  </item>
+  <item id="3317"
+    image="equipment/head/armor-head-mascara-ferro.png"
+    name="Máscara de Ferro"
+    description="Máscara de ferro com olhos de laser. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-ferro.xml</sprite>
+  </item>
+  <item id="3318"
+    image="equipment/head/armor-head-mascara-espantalho.png"
+    name="Máscara Espantalho"
+    description="Um espantalho que geralmente afasta corvos, mas que pode se tornar muito perigoso. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-espantalho.xml</sprite>
+  </item>
+  <item id="3319"
+    image="equipment/head/armor-head-mascara-lobisomen.png"
+    name="Máscara Lobisomem"
+    description="Se transforme em lobisomem durante a noite de uma lua cheia. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-lobisomen.xml</sprite>
+  </item>
+  <item id="3320"
+    image="equipment/head/armor-head-mascara-faces.png"
+    name="Máscara das Faces"
+    description="Máscara que ganha forma baseada no estado emocional da pessoa. Loja do Frank®. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-faces.xml</sprite>
+  </item>
+  <item id="3321"
+    image="equipment/head/armor-head-mascara-abobora.png"
+    name="Máscara Abóbora Jack"
+    description="Máscara de abóbora feita pelo próprio Jack Miserável. De Halloween 2011."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-abobora.xml</sprite>
+  </item>
+  <item id="3426"
+    image="equipment/weapon/weapon-staff-white.png"
+    name="Bastão de Luz Branca"
+    description="Um bastão feito com luz branca."
+    attack="73"
+    level="40"
+    type="equip-1hand"
+    weapon-type="sword"
+    weight="50">
+    <sprite>equipment/weapons/weapon-staff-white.xml</sprite>
+  </item>
+  <item id="3427"
+    image="equipment/weapon/weapon-staff-yellow.png"
+    name="Bastão de Luz Amarela"
+    description="Um bastão feito com luz amarela."
+    attack="91"
+    level="50"
+    type="equip-1hand"
+    weapon-type="sword"
+    weight="50">
+    <sprite>equipment/weapons/weapon-staff-yellow.xml</sprite>
+  </item>
+  <item id="3428"
+    image="equipment/weapon/weapon-staff-green.png"
+    name="Bastão de Luz Verde"
+    description="Um bastão feito com luz verde."
+    attack="109"
+    level="60"
+    type="equip-1hand"
+    weapon-type="sword"
+    weight="50">
+    <sprite>equipment/weapons/weapon-staff-green.xml</sprite>
+  </item>
+  <item id="3429"
+    image="equipment/weapon/weapon-staff-blue.png"
+    name="Bastão de Luz Azul"
+    description="Um bastão feito com luz Azul."
+    attack="127"
+    level="70"
+    type="equip-1hand"
+    weapon-type="sword"
+    weight="50">
+    <sprite>equipment/weapons/weapon-staff-blue.xml</sprite>
+  </item>
+  <item id="3430"
+    image="equipment/weapon/weapon-staff-red.png"
+    name="Bastão de Luz Vermelha"
+    description="Um bastão feito com luz vermelha."
+    attack="145"
+    level="80"
+    type="equip-1hand"
+    weapon-type="sword"
+    weight="50">
+    <sprite>equipment/weapons/weapon-staff-red.xml</sprite>
+  </item>
+  <item id="3431"
+    image="equipment/weapon/weapon-staff-purple.png"
+    name="Bastão de Luz Roxa"
+    description="Um bastão feito com luz roxa."
+    attack="163"
+    level="90"
+    type="equip-1hand"
+    weapon-type="sword"
+    weight="50">
+    <sprite>equipment/weapons/weapon-staff-purple.xml</sprite>
+  </item>
+  <item id="3432"
+    image="equipment/weapon/weapon-staff-black.png"
+    name="Bastão de Luz Negra"
+    description="Um bastão feito com luz negra."
+    attack="180"
+    level="99"
+    type="equip-1hand"
+    weapon-type="sword"
+    weight="50">
+    <sprite>equipment/weapons/weapon-staff-black.xml</sprite>
+  </item>
+  <item id="3004"
+    image="equipment/weapon/weapon-polearm-foice-morte.png"
+    name="Foice da Morte"
+    description="A mesma arma empunhada pelos mensageiros do submundo."
+    attack="130"
+    level="60"
+    type="equip-2hand"
+    weapon-type="polearm"
+    weight="1600">
+    <sprite>equipment/weapons/weapon-foice-morte.xml</sprite>
+  </item>
 </items>
