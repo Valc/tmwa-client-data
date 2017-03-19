@@ -88,6 +88,14 @@
    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
   </data>
  </layer>
- <objectgroup name="Objects"/>
- <objectgroup name="warps"/>
+ <objectgroup name="Objects">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="1566" y="5569" width="32" height="32"/>
+  <object name="Lost Island" type="warp" x="1566" y="5569" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="066-1"/>
+    <property name="dest_tile_x" value="101"/>
+    <property name="dest_tile_y" value="111"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>

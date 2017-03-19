@@ -371,8 +371,8 @@
     <property name="monster_id" value="1104"/>
    </properties>
   </object>
-  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="544" y="535" width="32" height="32"/>
-  <object name="Lost Island" type="warp" x="544" y="535" width="32" height="32">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="450" y="544" width="32" height="32"/>
+  <object name="Lost Island" type="warp" x="450" y="544" width="32" height="32">
    <properties>
     <property name="dest_map" value="066-1"/>
     <property name="dest_tile_x" value="101"/>

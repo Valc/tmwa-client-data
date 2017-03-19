@@ -74,5 +74,14 @@
    H4sIAAAAAAAAA+2VwW7cMAwF2/7/Rxc9FCjSrC1blIak5gFzSHZjiU9j5dfPHz9+iYiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiMjRRIWeQyQy9CxyNitCzyTnsSP0jHIO+ixd2BV6TunPztCzSl+I0DNLT6jQc0s/yNCzSy/o0PNLTbKG7kVqMevZjtAdSQ1WOLcqdFcz3dF77c5bl+jQvUX2QM/QhSr5tN/u3dF+VIJO1D46d0c7UoWonp9+tirZu4v4W1nn86fOyVTs7c18u2atQuec1BvtUQaednX3u6yhuovqaPQ5tE8VXI7OyvVHnh3d3ac1n/QdeT60Vye5nDFkd989V6dj+488t0rvD3EPfHrukzVHntGFndm5ZqX35CpXM8w6TbtXxeMuLmXIXY8zXdMOZvV4l78nviejd+/M8yvzdt6oZHQyw56oPdA+ZryfM+Vuzp09VOmcdlKH86RDx7SfGX3+bq0OZx2dkU5290b7udplPTwrtKNZ7uQOedLX1Xff/H/Kcla0q6f7nG3Gkf2M7vnT91bOTLt6us+Z86Z/8sxoTyN81vlnWdFXhjOgHV15L2fol8qO2UfX+Pq9u58j9pSZ1TnV+U+pfA/QrmbweSYV9rg75P9V2tXqPp+Uf8/jydnsPEfaVb01EaHd/eTz1/dfz9ncnUGWO4l297R7OutsWff1NLSzp3pdPSNns/P8aEdX+Nzdf2K+N2uu3CftYre7Oeu+ViRy1ohn0S5GObzDoZM8jcrbzmb/rhqzc5ueob2MvqfNdbr3R/s463LXc4lOlnvh03pR+6CdPPVu3jnDCX3+De1khM/VzuOJRzOz7bwf6DOgXYx22vTukvasos9vnpnJhUxdRoZ2rLLTVdOxR9orXebSsUfaLcLlKmezOt1c/hPaL8Ln7Nm114790X4RPlc6nx1Z7fPOrmm/CJ/Nfap2R/t1gs/R61bya3dov07w2ewL7Vcnn097XzLeEbRf3Zz+2u3VzzvWX7Um1eldaLe6O/0mFfaYNbRXnXzWwTUZ6ZX2icb0Cu0TzSkZmTeyk7fPml2f9olmpJvqOf0dPokMybSXbqH9OtFnsza0Y/r8LJ1mWRXaswo+7/SIcrbLu0J7lt3njvf818zOmKkb2rPsPlfP6vmz9Ux7ps/jqTrLzj3TnnV1OnovHd/PFaEd6+h0pr2cGNqxLj5n399JoT3TZ52ODO1ZB6ez7NH3gncso9NPvajy3p0Q2q+MPtMdZkvGPV2Fdkyfc/s8m+i5Rp5Fe1bZ5+gOV+xr5vOKoT3r5PVMr2YutFfdfR7t+c2zzP+hvarksx7lD+1VNadN7tBO0ZjrHt5+RoR2KQNmLBm7ot3JiKkX2pnsmFqhfamAqRPalQpUy92+K850F9qRSqzuNFPu9pNxv5ITcx/6jETXI0Ofg5zl9eo90v3LmV5Hhu5aenid4b2h+5U+Po+4tmMNOYfquZuH7lf0+S5P9k/3K/p8laf7p/sVhkjHZp83usbVWnSfkpO3jo38/cxzRUh0V0REREREREREREREREREREREJDe/AfSetYTgpQEA
   </data>
  </layer>
- <objectgroup name="Objects"/>
+ <objectgroup name="Objects">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="1472" y="3136" width="32" height="32"/>
+  <object name="Lost Island" type="warp" x="1472" y="3136" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="066-1"/>
+    <property name="dest_tile_x" value="101"/>
+    <property name="dest_tile_y" value="111"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>

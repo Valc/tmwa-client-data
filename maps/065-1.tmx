@@ -74,8 +74,8 @@
     <property name="dest_tile_y" value="84"/>
    </properties>
   </object>
-  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="1620" y="1560" width="32" height="32"/>
-  <object name="Lost Island" type="warp" x="1620" y="1560" width="32" height="32">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="1602" y="1534" width="32" height="32"/>
+  <object name="Lost Island" type="warp" x="1602" y="1534" width="32" height="32">
    <properties>
     <property name="dest_map" value="066-1"/>
     <property name="dest_tile_x" value="101"/>
