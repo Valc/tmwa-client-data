@@ -137,8 +137,8 @@
     </item>
   <item id="3307"
     image="equipment/head/armor-head-mascara-aranha.png"
-    name="Máscara Aranha"
-    description="Máscara do seu herói aranha favorito. Loja do Frank®. De Halloween 2011."
+    name="Spidey Mask"
+    description="The mask of your favorite hero."
     type="equip-head"
     weight="30"
     defense="1">
@@ -146,8 +146,8 @@
   </item>
   <item id="3308"
     image="equipment/head/armor-head-mascara-ciclope.png"
-    name="Máscara Ciclope"
-    description="Um monstro de um olho só que habita em ilhas distantes. Loja do Frank®. De Halloween 2011."
+    name="Cyclops Mask"
+    description="A one-eyed monster inhabiting distant islands."
     type="equip-head"
     weight="30"
     defense="1">
@@ -155,8 +155,8 @@
   </item>
   <item id="3309"
     image="equipment/head/armor-head-mascara-corey.png"
-    name="Máscara Corey"
-    description="Para você abalar neste Halloween. Loja do Frank®. De Halloween 2011."
+    name="Corey Mask"
+    description="For you to shake this Halloween."
     type="equip-head"
     weight="30"
     defense="1">
@@ -164,8 +164,8 @@
   </item>
   <item id="3310"
     image="equipment/head/armor-head-mascara-espantalho-cabelo.png"
-    name="Máscara Espantalho Cabeludo"
-    description="Um espantalho que geralmente afasta corvos, mas que pode se tornar muito perigoso. Loja do Frank®. De Halloween 2011."
+    name="Scarecrow Mask Hairy"
+    description="A scarecrow that usually drives off crows, but can become very dangerous."
     type="equip-head"
     weight="30"
     defense="1">
@@ -173,8 +173,8 @@
   </item>
   <item id="3311"
     image="equipment/head/armor-head-mascara-frank.png"
-    name="Máscara Frank"
-    description="Ele é verde e assustador. Mas se você não está devendo na loja dele, não há o que temer! Loja do Frank®. De Halloween 2011."
+    name="Frank Mask"
+    description="It is green and scary, but if you are not owed in his shop, there is nothing to fear!"
     type="equip-head"
     weight="30"
     defense="1">
@@ -182,8 +182,8 @@
   </item>
   <item id="3312"
     image="equipment/head/armor-head-mascara-garras.png"
-    name="Máscara Garras"
-    description="Máscara do seu herói de garras favorito. Loja do Frank®. De Halloween 2011."
+    name="Claws Mask"
+    description="Mask of your favorite claw hero."
     type="equip-head"
     weight="30"
     defense="1">
@@ -191,8 +191,8 @@
   </item>
   <item id="3313"
     image="equipment/head/armor-head-mascara-jason.png"
-    name="Máscara Jasoon"
-    description="Para você aterrorizar neste Halloween. Loja do Frank®. De Halloween 2011."
+    name="Jasoon Mask"
+    description="For you to terrorize all the year."
     type="equip-head"
     weight="30"
     defense="1">
@@ -200,8 +200,8 @@
   </item>
   <item id="3314"
     image="equipment/head/armor-head-mascara-joey.png"
-    name="Máscara Joey"
-    description="Para você abalar neste Halloween. Loja do Frank®. De Halloween 2011."
+    name="Joey Mask"
+    description="For you to shake."
     type="equip-head"
     weight="30"
     defense="1">
@@ -209,8 +209,8 @@
   </item>
   <item id="3315"
     image="equipment/head/armor-head-mascara-monstro-pedra.png"
-    name="Máscara Monstro de Pedra"
-    description="Monstro de pedra, que vive em regiões montanhosas e que dificilmente é visto. Loja do Frank®. De Halloween 2011."
+    name="Monster Stone Mask"
+    description="Stone monster, who lives in mountainous regions and is hardly seen."
     type="equip-head"
     weight="30"
     defense="1">
@@ -218,8 +218,8 @@
   </item>
   <item id="3316"
     image="equipment/head/armor-head-mascara-ninja.png"
-    name="Máscara Ninja"
-    description="Máscara Ninja. Loja do Frank®. De Halloween 2011."
+    name="Ninja Mask"
+    description="The mask for a ninja."
     type="equip-head"
     weight="30"
     defense="1">
@@ -227,8 +227,8 @@
   </item>
   <item id="3317"
     image="equipment/head/armor-head-mascara-ferro.png"
-    name="Máscara de Ferro"
-    description="Máscara de ferro com olhos de laser. Loja do Frank®. De Halloween 2011."
+    name="IronMask"
+    description="Iron mask with laser eyes."
     type="equip-head"
     weight="30"
     defense="1">
@@ -236,8 +236,8 @@
   </item>
   <item id="3318"
     image="equipment/head/armor-head-mascara-espantalho.png"
-    name="Máscara Espantalho"
-    description="Um espantalho que geralmente afasta corvos, mas que pode se tornar muito perigoso. Loja do Frank®. De Halloween 2011."
+    name="Scarecrow Mask"
+    description="A scarecrow that usually drives off crows, but that can become very dangerous."
     type="equip-head"
     weight="30"
     defense="1">
@@ -245,8 +245,8 @@
   </item>
   <item id="3319"
     image="equipment/head/armor-head-mascara-lobisomen.png"
-    name="Máscara Lobisomem"
-    description="Se transforme em lobisomem durante a noite de uma lua cheia. Loja do Frank®. De Halloween 2011."
+    name="Werewolf Mask"
+    description="Become a werewolf during the night of a full moon."
     type="equip-head"
     weight="30"
     defense="1">
@@ -254,8 +254,8 @@
   </item>
   <item id="3320"
     image="equipment/head/armor-head-mascara-faces.png"
-    name="Máscara das Faces"
-    description="Máscara que ganha forma baseada no estado emocional da pessoa. Loja do Frank®. De Halloween 2011."
+    name="Faces Mask"
+    description="Mask that gains form based on the emotional state of the person."
     type="equip-head"
     weight="30"
     defense="1">
@@ -263,8 +263,8 @@
   </item>
   <item id="3321"
     image="equipment/head/armor-head-mascara-abobora.png"
-    name="Máscara Abóbora Jack"
-    description="Máscara de abóbora feita pelo próprio Jack Miserável. De Halloween 2011."
+    name="Jack Pumpkin Mask"
+    description="Pumpkin Mask made by the Miserable Jack himself."
     type="equip-head"
     weight="30"
     defense="1">
@@ -272,8 +272,8 @@
   </item>
   <item id="3426"
     image="equipment/weapon/weapon-staff-white.png"
-    name="Bastão de Luz Branca"
-    description="Um bastão feito com luz branca."
+    name="White Laser Staff"
+    description="A bat made with white light."
     attack="73"
     level="40"
     type="equip-1hand"
@@ -283,8 +283,8 @@
   </item>
   <item id="3427"
     image="equipment/weapon/weapon-staff-yellow.png"
-    name="Bastão de Luz Amarela"
-    description="Um bastão feito com luz amarela."
+    name="Yellow Laser Staff"
+    description="A bat made with yellow light."
     attack="91"
     level="50"
     type="equip-1hand"
@@ -294,8 +294,8 @@
   </item>
   <item id="3428"
     image="equipment/weapon/weapon-staff-green.png"
-    name="Bastão de Luz Verde"
-    description="Um bastão feito com luz verde."
+    name="Green Laser Staff"
+    description="A bat made with green light."
     attack="109"
     level="60"
     type="equip-1hand"
@@ -305,8 +305,8 @@
   </item>
   <item id="3429"
     image="equipment/weapon/weapon-staff-blue.png"
-    name="Bastão de Luz Azul"
-    description="Um bastão feito com luz Azul."
+    name="Blue Laser Staff"
+    description="A bat made with blue light."
     attack="127"
     level="70"
     type="equip-1hand"
@@ -316,8 +316,8 @@
   </item>
   <item id="3430"
     image="equipment/weapon/weapon-staff-red.png"
-    name="Bastão de Luz Vermelha"
-    description="Um bastão feito com luz vermelha."
+    name="Red Laser Staff"
+    description="A bat made with red light."
     attack="145"
     level="80"
     type="equip-1hand"
@@ -327,8 +327,8 @@
   </item>
   <item id="3431"
     image="equipment/weapon/weapon-staff-purple.png"
-    name="Bastão de Luz Roxa"
-    description="Um bastão feito com luz roxa."
+    name="Purple Laser Staff"
+    description="A bat made with purple light."
     attack="163"
     level="90"
     type="equip-1hand"
@@ -338,8 +338,8 @@
   </item>
   <item id="3432"
     image="equipment/weapon/weapon-staff-black.png"
-    name="Bastão de Luz Negra"
-    description="Um bastão feito com luz negra."
+    name="Black Laser Staff"
+    description="A bat made with black light."
     attack="180"
     level="99"
     type="equip-1hand"
@@ -349,8 +349,8 @@
   </item>
   <item id="3004"
     image="equipment/weapon/weapon-polearm-foice-morte.png"
-    name="Foice da Morte"
-    description="A mesma arma empunhada pelos mensageiros do submundo."
+    name="Death Scythe"
+    description="The same weapon wielded by the messengers of the underworld."
     attack="130"
     level="60"
     type="equip-2hand"
