@@ -1488,21 +1488,21 @@
     <property name="dest_tile_y" value="30"/>
    </properties>
   </object>
-  <object name="TheLost" type="spawn" x="3053" y="4243.5" width="262" height="195">
+  <object name="TheLost" type="spawn" x="3053" y="4243" width="262" height="195">
    <properties>
     <property name="eA_spawn" value="300"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1773"/>
+    <property name="monster_id" value="1073"/>
    </properties>
   </object>
-  <object name="AngrySeaSlime" type="spawn" x="2588" y="628.5" width="262" height="195">
+  <object name="AngrySeaSlime" type="spawn" x="2588" y="628" width="262" height="195">
    <properties>
     <property name="eA_spawn" value="300"/>
     <property name="max_beings" value="15"/>
     <property name="monster_id" value="1109"/>
    </properties>
   </object>
-  <object name="ManaGhost" type="spawn" x="4587" y="5133.5" width="101" height="67">
+  <object name="ManaGhost" type="spawn" x="4587" y="5133" width="101" height="67">
    <properties>
     <property name="eA_spawn" value="300"/>
     <property name="max_beings" value="1"/>
