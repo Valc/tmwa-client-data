@@ -1479,9 +1479,9 @@
     <property name="dest_tile_y" value="68"/>
    </properties>
   </object>
-  <object name="graphics/particles/dark-teleport.particle.xml" type="PARTICLE_EFFECT" x="5714" y="594" width="32" height="32"/>
-  <object name="graphics/particles/dark-teleport.particle.xml" type="PARTICLE_EFFECT" x="2235" y="886" width="32" height="32"/>
-  <object name="Mele Island" type="warp" x="2236" y="886" width="32" height="32">
+  <object name="graphics/particles/bonfire.particle.xml" type="PARTICLE_EFFECT" x="5714" y="594" width="32" height="32"/>
+  <object name="graphics/particles/bonfire.particle.xml" type="PARTICLE_EFFECT" x="2317" y="893" width="32" height="32"/>
+  <object name="Mele Island" type="warp" x="2319" y="892" width="32" height="32">
    <properties>
     <property name="dest_map" value="060-1"/>
     <property name="dest_tile_x" value="17"/>
@@ -1507,6 +1507,81 @@
     <property name="eA_spawn" value="300"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1125"/>
+   </properties>
+  </object>
+  <object name="Hurnscald" type="warp" x="3384" y="5597" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="008-1"/>
+    <property name="dest_tile_x" value="133"/>
+    <property name="dest_tile_y" value="71"/>
+   </properties>
+  </object>
+  <object name="graphics/particles/bonfire.particle.xml" type="PARTICLE_EFFECT" x="3384" y="5596" width="32" height="32"/>
+  <object name="Mouboo" type="spawn" x="4238" y="1161" width="132" height="78">
+   <properties>
+    <property name="eA_spawn" value="300"/>
+    <property name="max_beings" value="4"/>
+    <property name="monster_id" value="1028"/>
+   </properties>
+  </object>
+  <object name="Pinkie" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_spawn" value="20"/>
+    <property name="max_beings" value="18"/>
+    <property name="monster_id" value="16"/>
+   </properties>
+  </object>
+  <object name="ManaBug" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_spawn" value="30"/>
+    <property name="max_beings" value="18"/>
+    <property name="monster_id" value="1131"/>
+   </properties>
+  </object>
+  <object name="Maggot" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_spawn" value="30"/>
+    <property name="max_beings" value="30"/>
+    <property name="monster_id" value="1002"/>
+   </properties>
+  </object>
+  <object name="MauvePlant" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="180000"/>
+    <property name="eA_spawn" value="270000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="27"/>
+   </properties>
+  </object>
+  <object name="Silkworm" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="30000"/>
+    <property name="eA_spawn" value="60000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="33"/>
+   </properties>
+  </object>
+  <object name="CloverPatch" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="1000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="35"/>
+   </properties>
+  </object>
+  <object name="ViciousSquirrel" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="20"/>
+    <property name="eA_spawn" value="30"/>
+    <property name="max_beings" value="10"/>
+    <property name="monster_id" value="1105"/>
+   </properties>
+  </object>
+  <object name="Butterfly" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="20"/>
+    <property name="eA_spawn" value="30"/>
+    <property name="max_beings" value="10"/>
+    <property name="monster_id" value="53"/>
    </properties>
   </object>
  </objectgroup>
