@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="180" height="120" tilewidth="32" tileheight="32">
  <properties>
-  <property name="minimap" value="graphics/minimaps/si-cave.png"/>
+  <property name="minimap" value="graphics/minimaps/065-2.png"/>
   <property name="music" value="finalman_and_yakslem-cavesong.ogg"/>
   <property name="name" value="No Name Cave"/>
  </properties>
