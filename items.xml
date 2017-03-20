@@ -190,7 +190,7 @@
     <sprite>equipment/head/coroa-imperial.xml</sprite>
   </item>
   <item id="3438"
-    image="equipment/head/weapon-axe-tomahawk.png"
+    image="equipment/head/armor-head-coroathomashawk.png"
     name="Thomas Hawk's Hatchet"
     description="Thomas Hawk Chieftain's Monodestrachet."
     attack="91"
@@ -198,7 +198,7 @@
     type="equip-1hand"
     weapon-type="axe"
     weight="1500">
-    <sprite>coroathomashawk.xml</sprite>
+    <sprite>equipment/head/coroathomashawk.xml</sprite>
   </item>
   <item id="4057"
     image="equipment/head/armor-head-mask-aguia.png"
