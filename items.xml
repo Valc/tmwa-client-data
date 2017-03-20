@@ -163,7 +163,6 @@
     image="equipment/head/armor-head-capacete-cavaleiro-demoniaco.png"
     name="Knight Helmet Demonic"
     description="A knight helmet demonic."
-    level="50"
     type="equip-head"
     weight="1000"
     defense="18">
@@ -172,9 +171,8 @@
   </item>
   <item id="3007"
     image="equipment/head/armor-head-capacete-lord.png"
-    name="Lord Helmet"
+    name="Lord Helm"
     description="A steel helmet with an activated tourmaline coupled."
-    level="70"
     type="equip-head"
     weight="1500"
     defense="20">
@@ -189,15 +187,13 @@
     defense="2">
     <sprite>equipment/head/coroa-imperial.xml</sprite>
   </item>
-  <item id="3438"
+  <item id="3446"
     image="equipment/head/armor-head-coroathomashawk.png"
-    name="Thomas Hawk's Hatchet"
-    description="Thomas Hawk Chieftain's Monodestrachet."
-    attack="91"
-    level="50"
-    type="equip-1hand"
-    weapon-type="axe"
-    weight="1500">
+    name="Warbonnet"
+    description="A Warbonnet."
+    type="equip-head"
+    weight="25"
+    defense="5">
     <sprite>equipment/head/coroathomashawk.xml</sprite>
   </item>
   <item id="4057"
