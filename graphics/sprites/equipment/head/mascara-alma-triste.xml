@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <sprite name="player" action="stand">
-
-  <imageset name="base" src="graphics/sprites/equipment/head/mascara-alma-triste.png" width="24" height="43"/>
+ <imageset name="base" src="graphics/sprites/equipment/head/mascara-alma-triste.png" width="24" height="43"/>
 
   <action name="stand" imageset="base">
     <animation direction="down">

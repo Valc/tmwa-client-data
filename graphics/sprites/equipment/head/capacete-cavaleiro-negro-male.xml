@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <sprite name="player" action="stand">
-
-  <imageset name="base" src="graphics/sprites/equipment/head/capacete-cavaleiro-negro-male.png" width="20" height="44"/>
+ <imageset name="base" src="graphics/sprites/equipment/head/capacete-cavaleiro-negro-male.png" width="20" height="44"/>
 
   <action name="stand" imageset="base">
     <animation direction="down">
