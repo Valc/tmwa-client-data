@@ -68,7 +68,7 @@
     <item id="8036"
         image="pets/pet-dog-icon.png"
         name="Hound"
-        description="There's nothing like having a sturdy dog at your side (Str  +50)."
+        description="There's nothing like having a sturdy dog at your side (Str +50)."
         effect="HP +100"
         str="50"
         type="equip-ring"
@@ -80,7 +80,7 @@
     <item id="8037"
         image="pets/fairy-green.png"
         name="Green Fairy"
-        description="A green fairy (Luck  +50)."
+        description="A green fairy (Luck +30)."
         effect="M. Attack +20 / HP +100"
         luck="30"
         type="equip-ring"
@@ -92,7 +92,7 @@
     <item id="8038"
         image="pets/fairy-red.png"
         name="Red Fairy"
-        description="A red fairy (Luck  +50)."
+        description="A red fairy (Luck +30)."
         effect="M. Attack +20 / HP +100"
         luck="30"
         type="equip-ring"
@@ -104,7 +104,7 @@
     <item id="8039"
         image="pets/fairy-blue.png"
         name="Blue Fairy"
-        description="A blue fairy (Luck  +50)."
+        description="A blue fairy (Luck +30)."
         effect="M. Attack +20 / HP +100"
         luck="30"
         type="equip-ring"
@@ -138,7 +138,7 @@
     <item id="8042"
         image="pets/cat-black.png"
         name="Black Cat"
-        description="A black cat, purrrr... (int +50 and Agi +25 )."
+        description="A black cat, purrrr... (Int +50 and Agi +25 )."
         effect="HP +100"
         int="50"
         agi="25"
@@ -148,6 +148,59 @@
         sellProtected="true">
         <sprite>pets/pet-black-cat.xml</sprite>
     </item>
+  <item id="3002"
+    image="equipment/head/armor-head-capuz-morte.png|W:#111111,222222,333333,444444,555555,aaaaaa"
+    name="Death Hood"
+    description="The same hood worn by Death."
+    type="equip-head"
+    weight="25"
+    defense="4"/>
+  <item id="3007"
+    image="equipment/head/armor-head-capacete-lord.png"
+    name="Lord Helmet"
+    description="A steel helmet with an activated tourmaline coupled."
+    level="70"
+    type="equip-head"
+    weight="1500"
+    defense="20">
+    <sprite>equipment/head/head-capacete-lord.xml</sprite>
+  </item>
+  <item id="3036"
+    image="equipment/head/armor-head-bordado-f.png"
+    name="Yellow Embroidered Cap"
+    description="A yellow cap embroidered with the letter F."
+    type="equip-head"
+    weight="30"
+    defense="5">
+    <sprite>equipment/head/head-bordado-f.xml</sprite>
+  </item>
+  <item id="3037"
+    image="equipment/head/armor-head-bordado-l.png"
+    name="Green Embroidered Cap"
+    description="A green cap embroidered with the letter L"
+    type="equip-head"
+    weight="30"
+    defense="5">
+    <sprite>equipment/head/head-bordado-l.xml</sprite>
+  </item>
+  <item id="3038"
+    image="equipment/head/armor-head-bordado-m.png"
+    name="Red Embroidered Cap"
+    description="A red cap embroidered with the letter M."
+    type="equip-head"
+    weight="30"
+    defense="5">
+    <sprite>equipment/head/head-bordado-m.xml</sprite>
+  </item>
+  <item id="3039"
+    image="equipment/head/armor-head-bordado-p.png"
+    name="Blue Embroidered Cap"
+    description="A blue cap embroidered with the letter P."
+    type="equip-head"
+    weight="30"
+    defense="5">
+    <sprite>equipment/head/head-bordado-p.xml</sprite>
+  </item>
   <item id="3307"
     image="equipment/head/armor-head-mascara-aranha.png"
     name="Spidey Mask"
@@ -156,6 +209,95 @@
     weight="30"
     defense="1">
     <sprite>equipment/head/mascara-aranha.xml</sprite>
+  </item>
+  <item id="3437"
+    image="equipment/head/armor-head-aureola.png"
+    name="Angel Halo"
+    description="For you to disguise yourself as an angel."
+    type="equip-head"
+    weight="10"
+    defense="5">
+    <sprite>equipment/head/head-aureola.xml</sprite>
+  </item>
+  <item id="3068"
+    image="equipment/head/armor-head-aureola-barba.png"
+    name="Beard with Halo"
+    description="For you to disguise yourself as an angel."
+    type="equip-head"
+    weight="10"
+    defense="5">
+    <sprite>equipment/head/head-aureola-barba.xml</sprite>
+  </item>
+  <item id="3093"
+    image="equipment/head/armor-head-mascara-flamejante.png"
+    name="Flaming Mask"
+    description="Flaming mask used by powerful necromancers."
+    mdefense="15"
+    level="30"
+    type="equip-head"
+    weight="25"
+    defense="15">
+    <sprite>equipment/head/head-mascara-flamejante.xml</sprite>
+  </item>
+  <item id="3096"
+    image="equipment/head/armor-head-greendradon.png"
+    name="Dragon Helm"
+    description="Unbreakable helm made of ancestral dragon bones."
+    mdefense="15"
+    level="70"
+    type="equip-head"
+    weight="1000"
+    defense="20">
+    <sprite>equipment/head/head-greendragon.xml</sprite>
+  </item>
+  <item id="3219"
+    image="equipment/head/armor-head-orelhas-urso.png"
+    name="Bear Ears"
+    description="A pair of cute little ears."
+    type="equip-head"
+    weight="75"
+    defense="1">
+    <sprite>equipment/head/head-orelhas-urso.xml</sprite>
+  </item>
+  <item id="3221"
+    image="equipment/head/armor-head-elmo-samurai.png"
+    name="Samurai Helm"
+    description="Helm used by those who follow the Bushidô path."
+    dex="1"
+    level="90"
+    type="equip-head"
+    weight="2000"
+    defense="20">
+    <sprite>equipment/head/head-elmo-samurai.xml</sprite>
+  </item>
+  <item id="3263"
+    image="equipment/head/armor-head-coroa-farao.png"
+    name="Pharaoh's Crown"
+    description="Full Pharaoh's crown, legend says his eyes shine like jade as he wears it."
+    mdefense="15"
+    level="90"
+    type="equip-head"
+    weight="200"
+    defense="15">
+    <sprite>equipment/head/head-coroa-farao.xml</sprite>
+  </item>
+  <item id="3266"
+    image="equipment/head/armor-head-mascara-morte.png"
+    name="Death Mask"
+    description="Death mask."
+    type="equip-head"
+    weight="110"
+    defense="2">
+    <sprite>equipment/head/head-mascara-morte.xml</sprite>
+  </item>
+  <item id="3306"
+    image="equipment/head/armor-head-mascara-alma-triste.png"
+    name="Sad Soul Mask"
+    description="A sad soul in its eternal solitude."
+    type="equip-head"
+    weight="30"
+    defense="1">
+    <sprite>equipment/head/mascara-alma-triste.xml</sprite>
   </item>
   <item id="3308"
     image="equipment/head/armor-head-mascara-ciclope.png"
@@ -204,7 +346,7 @@
   </item>
   <item id="3313"
     image="equipment/head/armor-head-mascara-jason.png"
-    name="Jasoon Mask"
+    name="Jason Mask"
     description="For you to terrorize all the year."
     type="equip-head"
     weight="30"
