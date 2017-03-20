@@ -148,13 +148,28 @@
         sellProtected="true">
         <sprite>pets/pet-black-cat.xml</sprite>
     </item>
-  <item id="3002"
-    image="equipment/head/armor-head-capuz-morte.png|W:#111111,222222,333333,444444,555555,aaaaaa"
-    name="Death Hood"
-    description="The same hood worn by Death."
+  <item id="3331"
+    image="equipment/head/armor-head-capacete-cavaleiro-negro.png"
+    name="Black Knight Helmet"
+    description="A black knight helmet."
+    level="70"
     type="equip-head"
-    weight="25"
-    defense="4"/>
+    weight="1000"
+    defense="20">
+    <sprite gender="male">equipment/head/capacete-cavaleiro-negro-male.xml</sprite>
+    <sprite gender="female">equipment/head/capacete-cavaleiro-negro-female.xml</sprite>
+  </item>
+  <item id="3336"
+    image="equipment/head/armor-head-capacete-cavaleiro-demoniaco.png"
+    name="Knight Helmet Demonic"
+    description="A knight helmet demonic."
+    level="50"
+    type="equip-head"
+    weight="1000"
+    defense="18">
+    <sprite gender="male">equipment/head/capacete-cavaleiro-demoniaco-male.xml</sprite>
+    <sprite gender="female">equipment/head/capacete-cavaleiro-demoniaco-female.xml</sprite>
+  </item>
   <item id="3007"
     image="equipment/head/armor-head-capacete-lord.png"
     name="Lord Helmet"
@@ -164,6 +179,36 @@
     weight="1500"
     defense="20">
     <sprite>equipment/head/head-capacete-lord.xml</sprite>
+  </item>
+  <item id="3381"
+    image="armor-head-coroa-imperial.png"
+    name="Imperial Crown"
+    description="The crown of the great emperor of the World of Mana."
+    type="equip-head"
+    weight="20"
+    defense="2">
+    <sprite>equipment/head/coroa-imperial.xml</sprite>
+  </item>
+  <item id="3438"
+    image="equipment/head/weapon-axe-tomahawk.png"
+    name="Thomas Hawk's Hatchet"
+    description="Thomas Hawk Chieftain's Monodestrachet."
+    attack="91"
+    level="50"
+    type="equip-1hand"
+    weapon-type="axe"
+    weight="1500">
+    <sprite>equipment/head/weapon-tomahawk.xml</sprite>
+  </item>
+  <item id="4057"
+    image="equipment/head/armor-head-mask-aguia.png"
+    name="Eagle Mask"
+    description="An Eagle Mask."
+    level="30"
+    type="equip-head"
+    weight="60"
+    defense="7">
+    <sprite>equipment/head/head-mask-aguia.xml</sprite>
   </item>
   <item id="3036"
     image="equipment/head/armor-head-bordado-f.png"
