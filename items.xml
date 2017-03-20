@@ -181,7 +181,7 @@
     <sprite>equipment/head/head-capacete-lord.xml</sprite>
   </item>
   <item id="3381"
-    image="armor-head-coroa-imperial.png"
+    image="equipment/head/armor-head-coroa-imperial.png"
     name="Imperial Crown"
     description="The crown of the great emperor of the World of Mana."
     type="equip-head"
@@ -198,7 +198,7 @@
     type="equip-1hand"
     weapon-type="axe"
     weight="1500">
-    <sprite>equipment/head/weapon-tomahawk.xml</sprite>
+    <sprite>coroathomashawk.xml</sprite>
   </item>
   <item id="4057"
     image="equipment/head/armor-head-mask-aguia.png"
