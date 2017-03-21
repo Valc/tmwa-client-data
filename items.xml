@@ -554,7 +554,7 @@
     weight="1600">
     <sprite>equipment/weapons/weapon-foice-morte.xml</sprite>
   </item>
-    <item id="8061"
+    <item id="8161"
         image="equipment/chest/assassintop.png|R:#eeeeee"
         name="White Assassin Shirt"
         description="White shirt for a master assassin."
@@ -567,7 +567,7 @@
         <sprite gender="female">equipment/chest/assassin-female.xml|#eeeeee</sprite>
     </item>
     
-    <item id="8062"
+    <item id="8162"
         image="equipment/legs/assassinpants.png|R:#eeeeee"
         name="White Assassin Pants"
         description="White pants for a master assassin."
@@ -580,7 +580,7 @@
         <sprite gender="female">equipment/legs/assassin-female.xml|#eeeeee</sprite>
     </item>
     
-    <item id="8063"
+    <item id="8163"
         image="equipment/hands/assassingloves.png|R:#eeeeee"
         name="White Assassin Gloves"
         description="White gloves for a master assassin."
@@ -594,7 +594,7 @@
     </item>
     
     <!-- Assassin set : green -->
-    <item id="8064"
+    <item id="8164"
         image="equipment/chest/assassintop.png|R:#115511,22aa22,99dd99"
         name="Green Assassin Shirt"
         description="Green shirt for a master assassin."
@@ -607,7 +607,7 @@
         <sprite gender="female">equipment/chest/assassin-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     
-    <item id="8065"
+    <item id="8165"
         image="equipment/legs/assassinpants.png|R:#115511,22aa22,99dd99"
         name="Green Assassin Pants"
         description="Green pants for a master assassin."
@@ -620,7 +620,7 @@
         <sprite gender="female">equipment/legs/assassin-female.xml|#115511,22aa22,99dd99</sprite>
     </item>
     
-    <item id="8066"
+    <item id="8166"
         image="equipment/hands/assassingloves.png|R:#115511,22aa22,99dd99"
         name="Green Assassin Gloves"
         description="Green gloves for a master assassin."
@@ -634,7 +634,7 @@
     </item>
     
     <!-- Assassin set : dark green -->
-    <item id="8067"
+    <item id="8167"
         image="equipment/chest/assassintop.png|R:#104010,208020,30c030"
         name="Dark Green Assassin Shirt"
         description="Dark Green shirt for a master assassin."
@@ -647,7 +647,7 @@
         <sprite gender="female">equipment/chest/assassin-female.xml|#104010,208020,30c030</sprite>
     </item>
     
-    <item id="8068"
+    <item id="8168"
         image="equipment/legs/assassinpants.png|R:#104010,208020,30c030"
         name="Dark Green Assassin Pants"
         description="Dark Green pants for a master assassin."
@@ -660,7 +660,7 @@
         <sprite gender="female">equipment/legs/assassin-female.xml|#104010,208020,30c030</sprite>
     </item>
     
-    <item id="8069"
+    <item id="8169"
         image="equipment/hands/assassingloves.png|R:#104010,208020,30c030"
         name="Dark Green Assassin Gloves"
         description="Dark Green gloves for a master assassin."
@@ -674,7 +674,7 @@
     </item>
     
     <!-- Assassin set : orange -->
-    <item id="8070"
+    <item id="8170"
         image="equipment/chest/assassintop.png|R:#80280f,b04810,ef681f,ffb830"
         name="Orange Assassin Shirt"
         description="Orange shirt for a master assassin."
@@ -687,7 +687,7 @@
         <sprite gender="female">equipment/chest/assassin-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     
-    <item id="8071"
+    <item id="8171"
         image="equipment/legs/assassinpants.png|R:#80280f,b04810,ef681f,ffb830"
         name="Orange Assassin Pants"
         description="Orange pants for a master assassin."
@@ -700,7 +700,7 @@
         <sprite gender="female">equipment/legs/assassin-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
     </item>
     
-    <item id="8072"
+    <item id="8172"
         image="equipment/hands/assassingloves.png|R:#80280f,b04810,ef681f,ffb830"
         name="Orange Assassin Gloves"
         description="Orange gloves for a master assassin."
@@ -714,7 +714,7 @@
     </item>
     
     <!-- Assassin set : purple -->
-    <item id="8073"
+    <item id="8173"
         image="equipment/chest/assassintop.png|R:#4f0a76,8010c0,d699f7"
         name="Purple Assassin Shirt"
         description="Purple shirt for a master assassin."
@@ -727,7 +727,7 @@
         <sprite gender="female">equipment/chest/assassin-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     
-    <item id="8074"
+    <item id="8174"
         image="equipment/legs/assassinpants.png|R:#4f0a76,8010c0,d699f7"
         name="Purple Assassin Pants"
         description="Purple pants for a master assassin."
@@ -740,7 +740,7 @@
         <sprite gender="female">equipment/legs/assassin-female.xml|#4f0a76,8010c0,d699f7</sprite>
     </item>
     
-    <item id="8075"
+    <item id="8175"
         image="equipment/hands/assassingloves.png|R:#4f0a76,8010c0,d699f7"
         name="Purple Assassin Gloves"
         description="Purple gloves for a master assassin."
@@ -754,7 +754,7 @@
     </item>
     
     <!-- Assassin set : yellow -->
-    <item id="8088"
+    <item id="8188"
         image="equipment/chest/assassintop.png|R:#846211,dab333,fffb93"
         name="Yellow Assassin Shirt"
         description="Yellow shirt for a master assassin."
@@ -767,7 +767,7 @@
         <sprite gender="female">equipment/chest/assassin-female.xml|R:#846211,dab333,fffb93</sprite>
     </item>
     
-    <item id="8077"
+    <item id="8177"
         image="equipment/legs/assassinpants.png|R:#846211,dab333,fffb93"
         name="Yellow Assassin Pants"
         description="Yellow pants for a master assassin."
@@ -780,7 +780,7 @@
         <sprite gender="female">equipment/legs/assassin-female.xml|#846211,dab333,fffb93</sprite>
     </item>
     
-    <item id="8078"
+    <item id="8178"
         image="equipment/hands/assassingloves.png|R:#846211,dab333,fffb93"
         name="Yellow Assassin Gloves"
         description="Yellow gloves for a master assassin."
@@ -794,7 +794,7 @@
     </item>
     
     <!-- Assassin set : pink -->
-    <item id="8079"
+    <item id="8179"
         image="equipment/chest/assassintop.png|R:#56002f,930050,fe70bd,feb7de,ffffff"
         name="Pink Assassin Shirt"
         description="Pink shirt for a master assassin."
@@ -807,7 +807,7 @@
         <sprite gender="female">equipment/chest/assassin-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     
-    <item id="8080"
+    <item id="8180"
         image="equipment/legs/assassinpants.png|R:#56002f,930050,fe70bd,feb7de,ffffff"
         name="Pink Assassin Pants"
         description="Pink pants for a master assassin."
@@ -820,7 +820,7 @@
         <sprite gender="female">equipment/legs/assassin-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
     
-    <item id="8081"
+    <item id="8181"
         image="equipment/hands/assassingloves.png|R:#56002f,930050,fe70bd,feb7de,ffffff"
         name="Pink Assassin Gloves"
         description="Pink gloves for a master assassin."
@@ -834,7 +834,7 @@
     </item>
     
     <!-- Assassin set : light blue -->
-    <item id="8082"
+    <item id="8182"
         image="equipment/chest/assassintop.png|R:#16486e,498ec5,e4f2fc"
         name="Light Blue Assassin Shirt"
         description="Light Blue shirt for a master assassin."
@@ -847,7 +847,7 @@
         <sprite gender="female">equipment/chest/assassin-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     
-    <item id="8083"
+    <item id="8183"
         image="equipment/legs/assassinpants.png|R:#16486e,498ec5,e4f2fc"
         name="Light Blue Assassin Pants"
         description="Light Blue pants for a master assassin."
@@ -860,7 +860,7 @@
         <sprite gender="female">equipment/legs/assassin-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     
-    <item id="8084"
+    <item id="8184"
         image="equipment/hands/assassingloves.png|R:#16486e,498ec5,e4f2fc"
         name="Light Blue Assassin Gloves"
         description="Light Blue gloves for a master assassin."
@@ -874,7 +874,7 @@
     </item>
     
     <!-- Assassin set : dark blue -->
-    <item id="8085"
+    <item id="8185"
         image="equipment/chest/assassintop.png|R:#222255,6666ff"
         name="Dark Blue Assassin Shirt"
         description="Dark Blue shirt for a master assassin."
@@ -887,7 +887,7 @@
         <sprite gender="female">equipment/chest/assassin-female.xml|#222255,6666ff</sprite>
     </item>
     
-    <item id="8086"
+    <item id="8186"
         image="equipment/legs/assassinpants.png|R:#222255,6666ff"
         name="Dark Blue Assassin Pants"
         description="Dark Blue pants for a master assassin."
@@ -900,7 +900,7 @@
         <sprite gender="female">equipment/legs/assassin-female.xml|#222255,6666ff</sprite>
     </item>
     
-    <item id="8087"
+    <item id="8187"
         image="equipment/hands/assassingloves.png|R:#222255,6666ff"
         name="Dark Blue Assassin Gloves"
         description="Dark Blue gloves for a master assassin."
