@@ -900,4 +900,69 @@
         <sprite gender="male">equipment/hands/assassin.xml|#222255,6666ff</sprite>
         <sprite gender="female">equipment/hands/assassin-female.xml|#222255,6666ff</sprite>
     </item>
+  <item id="3333"
+    image="equipment/chest/armor-chest-armadura-cavaleiro-demoniaco.png"
+    name="Armor Knight Demonic"
+    description="Armor of a demonic knight."
+    type="equip-torso"
+    weight="2000"
+    defense="27">
+    <sprite gender="male">equipment/chest/armadura-cavaleiro-demoniaco-male.xml</sprite>
+    <sprite gender="female">equipment/chest/armadura-cavaleiro-demoniaco-female.xml</sprite>
+  </item>
+  <item id="3328"
+    image="equipment/chest/armor-chest-armadura-cavaleiro-negro.png"
+    name="Armor Knight Dark"
+    description="Armor of a dark knight."
+    type="equip-torso"
+    weight="150"
+    defense="27">
+    <sprite gender="male">equipment/chest/armadura-cavaleiro-negro-male.xml</sprite>
+    <sprite gender="female">equipment/chest/armadura-cavaleiro-negro-female.xml</sprite>
+  </item>
+  <item id="3390"
+    image="equipment/chest/armor-chest-manta-imperial.png"
+    name="Imperial Blanket"
+    description="The mantle of the great emperor of the Mana World."
+    type="equip-torso"
+    weight="90">
+    <sprite gender="male">equipment/chest/manta-imperial-male.xml</sprite>
+    <sprite gender="female">equipment/chest/manta-imperial-female.xml</sprite>
+  </item>
+  <item id="3395"
+    image="equipment/chest/armor-chest-boia-patinho.png"
+    name="Duck Float"
+    description="A duck float."
+    type="equip-torso"
+    weight="45">
+    <sprite gender="male">equipment/chest/boia-patinho-male.xml</sprite>
+    <sprite gender="female">equipment/chest/boia-patinho-female.xml</sprite>
+  </item>
+  <item id="3396"
+    image="equipment/chest/armor-chest-boia-elefantinho.png"
+    name="Elephant Float"
+    description="An elephant float."
+    type="equip-torso"
+    weight="45">
+    <sprite gender="male">equipment/chest/boia-elefantinho-male.xml</sprite>
+    <sprite gender="female">equipment/chest/boia-elefantinho-female.xml</sprite>
+  </item>
+  <item id="3397"
+    image="equipment/chest/armor-chest-boia-jiboia.png"
+    name="Snake Float"
+    description="A snake float."
+    type="equip-torso"
+    weight="45">
+    <sprite gender="male">equipment/chest/boia-jiboia-male.xml</sprite>
+    <sprite gender="female">equipment/chest/boia-jiboia-female.xml</sprite>
+  </item>
+  <item id="3398"
+    image="equipment/chest/armor-chest-boia-rinoceronte.png"
+    name="Rhino Float"
+    description="A rinho float."
+    type="equip-torso"
+    weight="45">
+    <sprite gender="male">equipment/chest/boia-rinoceronte-male.xml</sprite>
+    <sprite gender="female">equipment/chest/boia-rinoceronte-female.xml</sprite>
+  </item>
 </items>
