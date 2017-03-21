@@ -554,4 +554,362 @@
     weight="1600">
     <sprite>equipment/weapons/weapon-foice-morte.xml</sprite>
   </item>
+    <item id="8061"
+        image="equipment/chest/assassintop.png|R:#eeeeee"
+        name="White Assassin Shirt"
+        description="White shirt for a master assassin."
+        effect="+15% Defense, +5 Agility"
+        type="equip-torso"
+        weight="15"
+        defense="15"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#eeeeee</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#eeeeee</sprite>
+    </item>
+    
+    <item id="8062"
+        image="equipment/legs/assassinpants.png|R:#eeeeee"
+        name="White Assassin Pants"
+        description="White pants for a master assassin."
+        effect="+5% Defense"
+        type="equip-torso"
+        weight="10"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/legs/assassin.xml|#eeeeee</sprite>
+        <sprite gender="female">equipment/legs/assassin-female.xml|#eeeeee</sprite>
+    </item>
+    
+    <item id="8063"
+        image="equipment/hands/assassingloves.png|R:#eeeeee"
+        name="White Assassin Gloves"
+        description="White gloves for a master assassin."
+        effect="+5% Defense, +2 Agility"
+        type="equip-arms"
+        weight="9"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/hands/assassin.xml|#eeeeee</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|#eeeeee</sprite>
+    </item>
+    
+    <!-- Assassin set : green -->
+    <item id="8064"
+        image="equipment/chest/assassintop.png|R:#115511,22aa22,99dd99"
+        name="Green Assassin Shirt"
+        description="Green shirt for a master assassin."
+        effect="+15% Defense, +5 Agility"
+        type="equip-torso"
+        weight="15"
+        defense="15"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#115511,22aa22,99dd99</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#115511,22aa22,99dd99</sprite>
+    </item>
+    
+    <item id="8065"
+        image="equipment/legs/assassinpants.png|R:#115511,22aa22,99dd99"
+        name="Green Assassin Pants"
+        description="Green pants for a master assassin."
+        effect="+5% Defense"
+        type="equip-torso"
+        weight="10"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/legs/assassin.xml|#115511,22aa22,99dd99</sprite>
+        <sprite gender="female">equipment/legs/assassin-female.xml|#115511,22aa22,99dd99</sprite>
+    </item>
+    
+    <item id="8066"
+        image="equipment/hands/assassingloves.png|R:#115511,22aa22,99dd99"
+        name="Green Assassin Gloves"
+        description="Green gloves for a master assassin."
+        effect="+5% Defense, +2 Agility"
+        type="equip-arms"
+        weight="9"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/hands/assassin.xml|#115511,22aa22,99dd99</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|#115511,22aa22,99dd99</sprite>
+    </item>
+    
+    <!-- Assassin set : dark green -->
+    <item id="8067"
+        image="equipment/chest/assassintop.png|R:#104010,208020,30c030"
+        name="Dark Green Assassin Shirt"
+        description="Dark Green shirt for a master assassin."
+        effect="+15% Defense, +5 Agility"
+        type="equip-torso"
+        weight="15"
+        defense="15"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#104010,208020,30c030</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#104010,208020,30c030</sprite>
+    </item>
+    
+    <item id="8068"
+        image="equipment/legs/assassinpants.png|R:#104010,208020,30c030"
+        name="Dark Green Assassin Pants"
+        description="Dark Green pants for a master assassin."
+        effect="+5% Defense"
+        type="equip-torso"
+        weight="10"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/legs/assassin.xml|#104010,208020,30c030</sprite>
+        <sprite gender="female">equipment/legs/assassin-female.xml|#104010,208020,30c030</sprite>
+    </item>
+    
+    <item id="8069"
+        image="equipment/hands/assassingloves.png|R:#104010,208020,30c030"
+        name="Dark Green Assassin Gloves"
+        description="Dark Green gloves for a master assassin."
+        effect="+5% Defense, +2 Agility"
+        type="equip-arms"
+        weight="9"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/hands/assassin.xml|#104010,208020,30c030</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|#104010,208020,30c030</sprite>
+    </item>
+    
+    <!-- Assassin set : orange -->
+    <item id="8070"
+        image="equipment/chest/assassintop.png|R:#80280f,b04810,ef681f,ffb830"
+        name="Orange Assassin Shirt"
+        description="Orange shirt for a master assassin."
+        effect="+15% Defense, +5 Agility"
+        type="equip-torso"
+        weight="15"
+        defense="15"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#80280f,b04810,ef681f,ffb830</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+    </item>
+    
+    <item id="8071"
+        image="equipment/legs/assassinpants.png|R:#80280f,b04810,ef681f,ffb830"
+        name="Orange Assassin Pants"
+        description="Orange pants for a master assassin."
+        effect="+5% Defense"
+        type="equip-torso"
+        weight="10"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/legs/assassin.xml|#80280f,b04810,ef681f,ffb830</sprite>
+        <sprite gender="female">equipment/legs/assassin-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+    </item>
+    
+    <item id="8072"
+        image="equipment/hands/assassingloves.png|R:#80280f,b04810,ef681f,ffb830"
+        name="Orange Assassin Gloves"
+        description="Orange gloves for a master assassin."
+        effect="+5% Defense, +2 Agility"
+        type="equip-arms"
+        weight="9"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/hands/assassin.xml|#80280f,b04810,ef681f,ffb830</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|#80280f,b04810,ef681f,ffb830</sprite>
+    </item>
+    
+    <!-- Assassin set : purple -->
+    <item id="8073"
+        image="equipment/chest/assassintop.png|R:#4f0a76,8010c0,d699f7"
+        name="Purple Assassin Shirt"
+        description="Purple shirt for a master assassin."
+        effect="+15% Defense, +5 Agility"
+        type="equip-torso"
+        weight="15"
+        defense="15"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#4f0a76,8010c0,d699f7</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#4f0a76,8010c0,d699f7</sprite>
+    </item>
+    
+    <item id="8074"
+        image="equipment/legs/assassinpants.png|R:#4f0a76,8010c0,d699f7"
+        name="Purple Assassin Pants"
+        description="Purple pants for a master assassin."
+        effect="+5% Defense"
+        type="equip-torso"
+        weight="10"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/legs/assassin.xml|#4f0a76,8010c0,d699f7</sprite>
+        <sprite gender="female">equipment/legs/assassin-female.xml|#4f0a76,8010c0,d699f7</sprite>
+    </item>
+    
+    <item id="8075"
+        image="equipment/hands/assassingloves.png|R:#4f0a76,8010c0,d699f7"
+        name="Purple Assassin Gloves"
+        description="Purple gloves for a master assassin."
+        effect="+5% Defense, +2 Agility"
+        type="equip-arms"
+        weight="9"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/hands/assassin.xml|#4f0a76,8010c0,d699f7</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|#4f0a76,8010c0,d699f7</sprite>
+    </item>
+    
+    <!-- Assassin set : yellow -->
+    <item id="8076"
+        image="equipment/chest/assassintop.png|R:#846211,dab333,fffb93"
+        name="Yellow Assassin Shirt"
+        description="Yellow shirt for a master assassin."
+        effect="+15% Defense, +5 Agility"
+        type="equip-torso"
+        weight="15"
+        defense="15"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#846211,dab333,fffb93</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#846211,dab333,fffb93</sprite>
+    </item>
+    
+    <item id="8077"
+        image="equipment/legs/assassinpants.png|R:#846211,dab333,fffb93"
+        name="Yellow Assassin Pants"
+        description="Yellow pants for a master assassin."
+        effect="+5% Defense"
+        type="equip-torso"
+        weight="10"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/legs/assassin.xml|#846211,dab333,fffb93</sprite>
+        <sprite gender="female">equipment/legs/assassin-female.xml|#846211,dab333,fffb93</sprite>
+    </item>
+    
+    <item id="8078"
+        image="equipment/hands/assassingloves.png|R:#846211,dab333,fffb93"
+        name="Yellow Assassin Gloves"
+        description="Yellow gloves for a master assassin."
+        effect="+5% Defense, +2 Agility"
+        type="equip-arms"
+        weight="9"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/hands/assassin.xml|#846211,dab333,fffb93</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|#846211,dab333,fffb93</sprite>
+    </item>
+    
+    <!-- Assassin set : pink -->
+    <item id="8079"
+        image="equipment/chest/assassintop.png|R:#56002f,930050,fe70bd,feb7de,ffffff"
+        name="Pink Assassin Shirt"
+        description="Pink shirt for a master assassin."
+        effect="+15% Defense, +5 Agility"
+        type="equip-torso"
+        weight="15"
+        defense="15"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+    </item>
+    
+    <item id="8080"
+        image="equipment/legs/assassinpants.png|R:#56002f,930050,fe70bd,feb7de,ffffff"
+        name="Pink Assassin Pants"
+        description="Pink pants for a master assassin."
+        effect="+5% Defense"
+        type="equip-torso"
+        weight="10"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/legs/assassin.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+        <sprite gender="female">equipment/legs/assassin-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+    </item>
+    
+    <item id="8081"
+        image="equipment/hands/assassingloves.png|R:#56002f,930050,fe70bd,feb7de,ffffff"
+        name="Pink Assassin Gloves"
+        description="Pink gloves for a master assassin."
+        effect="+5% Defense, +2 Agility"
+        type="equip-arms"
+        weight="9"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/hands/assassin.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+    </item>
+    
+    <!-- Assassin set : light blue -->
+    <item id="8082"
+        image="equipment/chest/assassintop.png|R:#16486e,498ec5,e4f2fc"
+        name="Light Blue Assassin Shirt"
+        description="Light Blue shirt for a master assassin."
+        effect="+15% Defense, +5 Agility"
+        type="equip-torso"
+        weight="15"
+        defense="15"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#16486e,498ec5,e4f2fc</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#16486e,498ec5,e4f2fc</sprite>
+    </item>
+    
+    <item id="8083"
+        image="equipment/legs/assassinpants.png|R:#16486e,498ec5,e4f2fc"
+        name="Light Blue Assassin Pants"
+        description="Light Blue pants for a master assassin."
+        effect="+5% Defense"
+        type="equip-torso"
+        weight="10"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/legs/assassin.xml|#16486e,498ec5,e4f2fc</sprite>
+        <sprite gender="female">equipment/legs/assassin-female.xml|#16486e,498ec5,e4f2fc</sprite>
+    </item>
+    
+    <item id="8084"
+        image="equipment/hands/assassingloves.png|R:#16486e,498ec5,e4f2fc"
+        name="Light Blue Assassin Gloves"
+        description="Light Blue gloves for a master assassin."
+        effect="+5% Defense, +2 Agility"
+        type="equip-arms"
+        weight="9"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/hands/assassin.xml|#16486e,498ec5,e4f2fc</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|#16486e,498ec5,e4f2fc</sprite>
+    </item>
+    
+    <!-- Assassin set : dark blue -->
+    <item id="8085"
+        image="equipment/chest/assassintop.png|R:#222255,6666ff"
+        name="Dark Blue Assassin Shirt"
+        description="Dark Blue shirt for a master assassin."
+        effect="+15% Defense, +5 Agility"
+        type="equip-torso"
+        weight="15"
+        defense="15"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#222255,6666ff</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#222255,6666ff</sprite>
+    </item>
+    
+    <item id="8086"
+        image="equipment/legs/assassinpants.png|R:#222255,6666ff"
+        name="Dark Blue Assassin Pants"
+        description="Dark Blue pants for a master assassin."
+        effect="+5% Defense"
+        type="equip-torso"
+        weight="10"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/legs/assassin.xml|#222255,6666ff</sprite>
+        <sprite gender="female">equipment/legs/assassin-female.xml|#222255,6666ff</sprite>
+    </item>
+    
+    <item id="8087"
+        image="equipment/hands/assassingloves.png|R:#222255,6666ff"
+        name="Dark Blue Assassin Gloves"
+        description="Dark Blue gloves for a master assassin."
+        effect="+5% Defense, +2 Agility"
+        type="equip-arms"
+        weight="9"
+        defense="5"
+        max-per-slot="1">
+        <sprite gender="male">equipment/hands/assassin.xml|#222255,6666ff</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|#222255,6666ff</sprite>
+    </item>
 </items>
