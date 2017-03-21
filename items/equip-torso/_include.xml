@@ -250,5 +250,5 @@
   <include name="items/equip-torso/item8058_DarkGreenSaviorArmor.xml"/>
   <include name="items/equip-torso/item8059_OrangeSaviorArmor.xml"/>
   <include name="items/equip-torso/item8060_PinkSaviorArmor.xml"/> 
-  <include name="items/equip-torso/item7361_WhiteAssassinShirt.xml"/>
+  <include name="items/equip-torso/item8161_WhiteAssassinShirt.xml"/>
 </items>
