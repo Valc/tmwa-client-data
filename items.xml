@@ -554,18 +554,6 @@
     weight="1600">
     <sprite>equipment/weapons/weapon-foice-morte.xml</sprite>
   </item>
-    <item id="8161"
-        image="equipment/chest/assassintop.png|R:#eeeeee"
-        name="White Assassin Shirt"
-        description="White shirt for a master assassin."
-        effect="+15% Defense, +5 Agility"
-        type="equip-torso"
-        weight="15"
-        defense="15"
-        max-per-slot="1">
-        <sprite gender="male">equipment/chest/assassin.xml|#eeeeee</sprite>
-        <sprite gender="female">equipment/chest/assassin-female.xml|#eeeeee</sprite>
-    </item>
     
     <item id="8162"
         image="equipment/legs/assassinpants.png|R:#eeeeee"
