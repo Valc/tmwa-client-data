@@ -763,8 +763,8 @@
         weight="15"
         defense="15"
         max-per-slot="1">
-        <sprite gender="male">equipment/chest/assassin.xml|R:#846211,dab333,fffb93</sprite>
-        <sprite gender="female">equipment/chest/assassin-female.xml|R:#846211,dab333,fffb93</sprite>
+        <sprite gender="male">equipment/chest/chest-assassin-male.xml|#846211,dab333,fffb93</sprite>
+        <sprite gender="female">equipment/chest/chest-assassin-female.xml|#846211,dab333,fffb93</sprite>
     </item>
     
     <item id="8077"
@@ -843,8 +843,8 @@
         weight="15"
         defense="15"
         max-per-slot="1">
-        <sprite gender="male">equipment/chest/assassin.xml|#16486e,498ec5,e4f2fc</sprite>
-        <sprite gender="female">equipment/chest/assassin-female.xml|#16486e,498ec5,e4f2fc</sprite>
+        <sprite gender="male">equipment/chest/chest-assassin-male.xml|#16486e,498ec5,e4f2fc</sprite>
+        <sprite gender="female">equipment/chest/chest-assassin-female.xml|#16486e,498ec5,e4f2fc</sprite>
     </item>
     
     <item id="8083"
