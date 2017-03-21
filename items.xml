@@ -723,8 +723,8 @@
         weight="15"
         defense="15"
         max-per-slot="1">
-        <sprite gender="male">equipment/chest/assassin.xml|#4f0a76,8010c0,d699f7</sprite>
-        <sprite gender="female">equipment/chest/assassin-female.xml|#4f0a76,8010c0,d699f7</sprite>
+        <sprite gender="male">equipment/chest/assassin.xml|R:#4f0a76,8010c0,d699f7</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|R:#4f0a76,8010c0,d699f7</sprite>
     </item>
     
     <item id="8074"
@@ -749,12 +749,12 @@
         weight="9"
         defense="5"
         max-per-slot="1">
-        <sprite gender="male">equipment/hands/assassin.xml|#4f0a76,8010c0,d699f7</sprite>
-        <sprite gender="female">equipment/hands/assassin-female.xml|#4f0a76,8010c0,d699f7</sprite>
+        <sprite gender="male">equipment/hands/assassin.xml|R:#4f0a76,8010c0,d699f7</sprite>
+        <sprite gender="female">equipment/hands/assassin-female.xml|R:#4f0a76,8010c0,d699f7</sprite>
     </item>
     
     <!-- Assassin set : yellow -->
-    <item id="8076"
+    <item id="8088"
         image="equipment/chest/assassintop.png|R:#846211,dab333,fffb93"
         name="Yellow Assassin Shirt"
         description="Yellow shirt for a master assassin."
@@ -763,8 +763,8 @@
         weight="15"
         defense="15"
         max-per-slot="1">
-        <sprite gender="male">equipment/chest/assassin.xml|#846211,dab333,fffb93</sprite>
-        <sprite gender="female">equipment/chest/assassin-female.xml|#846211,dab333,fffb93</sprite>
+        <sprite gender="male">equipment/chest/assassin.xml|R:#846211,dab333,fffb93</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|R:#846211,dab333,fffb93</sprite>
     </item>
     
     <item id="8077"
