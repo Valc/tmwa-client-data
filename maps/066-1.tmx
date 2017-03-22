@@ -1472,20 +1472,20 @@
     <property name="dest_tile_y" value="17"/>
    </properties>
   </object>
-  <object name="No Name Island" type="warp" x="5758" y="609" width="32" height="32">
+  <object name="No Name Island" type="warp" x="5696" y="608" width="32" height="32">
    <properties>
     <property name="dest_map" value="065-1"/>
-    <property name="dest_tile_x" value="53"/>
-    <property name="dest_tile_y" value="68"/>
+    <property name="dest_tile_x" value="52"/>
+    <property name="dest_tile_y" value="49"/>
    </properties>
   </object>
-  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="5758" y="609" width="32" height="32"/>
-  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="2272" y="896" width="32" height="32"/>
-  <object name="Mele Island" type="warp" x="2272" y="896" width="32" height="32">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="5696" y="608" width="32" height="32"/>
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="2304" y="896" width="32" height="32"/>
+  <object name="Mele Island" type="warp" x="2304" y="896" width="32" height="32">
    <properties>
     <property name="dest_map" value="060-1"/>
-    <property name="dest_tile_x" value="17"/>
-    <property name="dest_tile_y" value="30"/>
+    <property name="dest_tile_x" value="16"/>
+    <property name="dest_tile_y" value="17"/>
    </properties>
   </object>
   <object name="TheLost" type="spawn" x="3053" y="4243" width="262" height="195">
@@ -1509,14 +1509,14 @@
     <property name="monster_id" value="1125"/>
    </properties>
   </object>
-  <object name="Hurnscald" type="warp" x="3424" y="5600" width="32" height="32">
+  <object name="Hurnscald" type="warp" x="3360" y="5600" width="32" height="32">
    <properties>
     <property name="dest_map" value="008-1"/>
-    <property name="dest_tile_x" value="133"/>
-    <property name="dest_tile_y" value="71"/>
+    <property name="dest_tile_x" value="132"/>
+    <property name="dest_tile_y" value="69"/>
    </properties>
   </object>
-  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="3424" y="5600" width="32" height="32"/>
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="3360" y="5600" width="32" height="32"/>
   <object name="Mouboo" type="spawn" x="4238" y="1161" width="132" height="78">
    <properties>
     <property name="eA_spawn" value="300"/>
@@ -1547,7 +1547,6 @@
   </object>
   <object name="MauvePlant" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="180000"/>
     <property name="eA_spawn" value="27000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="27"/>
@@ -1555,7 +1554,6 @@
   </object>
   <object name="Silkworm" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="60000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="33"/>

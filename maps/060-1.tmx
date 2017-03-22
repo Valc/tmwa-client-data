@@ -350,14 +350,14 @@
 </data>
  </layer>
  <objectgroup name="Capa de Objetos 1">
-  <object name="Dragon" type="spawn" x="1233" y="766" width="262" height="195">
+  <object name="RedDragon" type="spawn" x="1233" y="766" width="262" height="195">
    <properties>
     <property name="eA_spawn" value="3000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1701"/>
+    <property name="monster_id" value="1722"/>
    </properties>
   </object>
-  <object name="RedSlime" type="spawn" x="459" y="786" width="262" height="195">
+  <object name="RedSlime" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="1500"/>
     <property name="max_beings" value="15"/>
@@ -371,12 +371,12 @@
     <property name="monster_id" value="1104"/>
    </properties>
   </object>
-  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="450" y="544" width="32" height="32"/>
-  <object name="Lost Island" type="warp" x="450" y="544" width="32" height="32">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="448" y="544" width="32" height="32"/>
+  <object name="Lost Island" type="warp" x="448" y="544" width="32" height="32">
    <properties>
     <property name="dest_map" value="066-1"/>
-    <property name="dest_tile_x" value="101"/>
-    <property name="dest_tile_y" value="111"/>
+    <property name="dest_tile_x" value="73"/>
+    <property name="dest_tile_y" value="28"/>
    </properties>
   </object>
  </objectgroup>
