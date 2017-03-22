@@ -687,7 +687,7 @@
     <property name="monster_id" value="1130"/>
    </properties>
   </object>
-  <object name="TresureBox" type="spawn" x="0" y="0">
+  <object name="TreasureBox" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="0"/>
     <property name="eA_spawn" value="0"/>

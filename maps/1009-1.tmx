@@ -686,7 +686,7 @@
     <property name="monster_id" value="35"/>
    </properties>
   </object>
-  <object name="TresureBox" type="spawn" x="800" y="1216" width="320" height="448">
+  <object name="TreasureBox" type="spawn" x="800" y="1216" width="320" height="448">
    <properties>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1718"/>

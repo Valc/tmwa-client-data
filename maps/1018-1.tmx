@@ -782,7 +782,7 @@
     <property name="monster_id" value="1132"/>
    </properties>
   </object>
-  <object name="TresureBox" type="spawn" x="3616" y="1696" width="448" height="224">
+  <object name="TreasureBox" type="spawn" x="3616" y="1696" width="448" height="224">
    <properties>
     <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="2"/>
