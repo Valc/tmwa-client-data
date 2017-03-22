@@ -921,7 +921,7 @@
     <sprite gender="female">equipment/chest/armadura-cavaleiro-negro-female.xml</sprite>
   </item>
   <item id="3390"
-    image="equipment/chest/armor-chest-manta-imperial.png"
+    image="equipment/charms/armor-chest-manta-imperial.png"
     name="Imperial Blanket"
     description="The mantle of the great emperor of the Mana World."
     type="equip-torso"
@@ -930,7 +930,7 @@
     <sprite gender="female">equipment/chest/manta-imperial-female.xml</sprite>
   </item>
   <item id="3395"
-    image="equipment/chest/armor-chest-boia-patinho.png"
+    image="equipment/charms/armor-chest-boia-patinho.png"
     name="Duck Float"
     description="A duck float."
     type="equip-torso"
@@ -939,7 +939,7 @@
     <sprite gender="female">equipment/chest/boia-patinho-female.xml</sprite>
   </item>
   <item id="3396"
-    image="equipment/chest/armor-chest-boia-elefantinho.png"
+    image="equipment/charms/armor-chest-boia-elefantinho.png"
     name="Elephant Float"
     description="An elephant float."
     type="equip-torso"
@@ -948,7 +948,7 @@
     <sprite gender="female">equipment/chest/boia-elefantinho-female.xml</sprite>
   </item>
   <item id="3397"
-    image="equipment/chest/armor-chest-boia-jiboia.png"
+    image="equipment/charms/armor-chest-boia-jiboia.png"
     name="Snake Float"
     description="A snake float."
     type="equip-torso"
@@ -957,7 +957,7 @@
     <sprite gender="female">equipment/chest/boia-jiboia-female.xml</sprite>
   </item>
   <item id="3398"
-    image="equipment/chest/armor-chest-boia-rinoceronte.png"
+    image="equipment/charms/armor-chest-boia-rinoceronte.png"
     name="Rhino Float"
     description="A rinho float."
     type="equip-torso"
