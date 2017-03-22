@@ -493,7 +493,6 @@
     name="Green Laser Staff"
     description="A bat made with green light."
     attack="109"
-    level="60"
     type="equip-1hand"
     weapon-type="sword"
     weight="50">
@@ -503,11 +502,11 @@
     image="equipment/weapon/weapon-staff-blue.png"
     name="Blue Laser Staff"
     description="A bat made with blue light."
-    attack="127"
-    level="70"
+    type="equip-2hand"
+    attack-action="attack_sword_stab"
+    attack-range="2"
     type="equip-1hand"
-    weapon-type="sword"
-    weight="50">
+    weight="500">
     <sprite>equipment/weapons/weapon-staff-blue.xml</sprite>
   </item>
   <item id="3430"
@@ -515,7 +514,6 @@
     name="Red Laser Staff"
     description="A bat made with red light."
     attack="145"
-    level="80"
     type="equip-1hand"
     weapon-type="sword"
     weight="50">
@@ -526,7 +524,6 @@
     name="Purple Laser Staff"
     description="A bat made with purple light."
     attack="163"
-    level="90"
     type="equip-1hand"
     weapon-type="sword"
     weight="50">
@@ -537,7 +534,6 @@
     name="Black Laser Staff"
     description="A bat made with black light."
     attack="180"
-    level="99"
     type="equip-1hand"
     weapon-type="sword"
     weight="50">
@@ -924,8 +920,9 @@
     image="equipment/charms/armor-chest-manta-imperial.png"
     name="Imperial Blanket"
     description="The mantle of the great emperor of the Mana World."
-    type="equip-torso"
-    weight="90">
+    type="equip-ring"
+    weight="90"
+    max-per-slot="1">
     <sprite gender="male">equipment/chest/manta-imperial-male.xml</sprite>
     <sprite gender="female">equipment/chest/manta-imperial-female.xml</sprite>
   </item>
@@ -933,8 +930,9 @@
     image="equipment/charms/armor-chest-boia-patinho.png"
     name="Duck Float"
     description="A duck float."
-    type="equip-torso"
-    weight="45">
+    type="equip-ring"
+    weight="45"
+    max-per-slot="1">
     <sprite gender="male">equipment/chest/boia-patinho-male.xml</sprite>
     <sprite gender="female">equipment/chest/boia-patinho-female.xml</sprite>
   </item>
@@ -942,8 +940,9 @@
     image="equipment/charms/armor-chest-boia-elefantinho.png"
     name="Elephant Float"
     description="An elephant float."
-    type="equip-torso"
-    weight="45">
+    type="equip-ring"
+    weight="45"
+    max-per-slot="1">
     <sprite gender="male">equipment/chest/boia-elefantinho-male.xml</sprite>
     <sprite gender="female">equipment/chest/boia-elefantinho-female.xml</sprite>
   </item>
@@ -951,8 +950,9 @@
     image="equipment/charms/armor-chest-boia-jiboia.png"
     name="Snake Float"
     description="A snake float."
-    type="equip-torso"
-    weight="45">
+    type="equip-ring"
+    weight="45"
+    max-per-slot="1">
     <sprite gender="male">equipment/chest/boia-jiboia-male.xml</sprite>
     <sprite gender="female">equipment/chest/boia-jiboia-female.xml</sprite>
   </item>
@@ -960,8 +960,9 @@
     image="equipment/charms/armor-chest-boia-rinoceronte.png"
     name="Rhino Float"
     description="A rinho float."
-    type="equip-torso"
-    weight="45">
+    type="equip-ring"
+    weight="45"
+    max-per-slot="1">
     <sprite gender="male">equipment/chest/boia-rinoceronte-male.xml</sprite>
     <sprite gender="female">equipment/chest/boia-rinoceronte-female.xml</sprite>
   </item>
