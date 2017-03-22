@@ -505,7 +505,6 @@
     type="equip-2hand"
     attack-action="attack_sword_stab"
     attack-range="2"
-    type="equip-1hand"
     weight="500">
     <sprite>equipment/weapons/weapon-staff-blue.xml</sprite>
   </item>
