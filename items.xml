@@ -470,36 +470,31 @@
     image="equipment/weapon/weapon-staff-white.png"
     name="White Laser Staff"
     description="A bat made with white light."
-    attack="73"
-    level="40"
-    type="equip-1hand"
-    weapon-type="sword"
-    weight="50">
+    type="equip-2hand"
+    attack-range="2"
+    weight="500">
     <sprite>equipment/weapons/weapon-staff-white.xml</sprite>
   </item>
   <item id="3427"
     image="equipment/weapon/weapon-staff-yellow.png"
     name="Yellow Laser Staff"
     description="A bat made with yellow light."
-    attack="91"
-    level="50"
-    type="equip-1hand"
-    weapon-type="sword"
-    weight="50">
+    type="equip-2hand"
+    attack-range="2"
+    weight="500">
     <sprite>equipment/weapons/weapon-staff-yellow.xml</sprite>
   </item>
   <item id="3428"
     image="equipment/weapon/weapon-staff-green.png"
     name="Green Laser Staff"
     description="A bat made with green light."
-    attack="109"
-    type="equip-1hand"
-    weapon-type="sword"
-    weight="50">
+    type="equip-2hand"
+    attack-range="2"
+    weight="500">
     <sprite>equipment/weapons/weapon-staff-green.xml</sprite>
   </item>
   <item id="3429"
-    image="equipment/weapon/weapon-staff-blue.png|R:#222255,6666ff"
+    image="equipment/weapon/weapon-staff-blue.png"
     name="Blue Laser Staff"
     description="A bat made with blue light."
     type="equip-2hand"

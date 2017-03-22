@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sprite name="player" action="stand">
-  <imageset name="staff" src="graphics/sprites/equipment/weapons/weapon-staff-blue.png|R" width="128" height="128" />
+  <imageset name="staff-blue" src="graphics/sprites/equipment/weapons/weapon-staff-blue.png" width="128" height="128" />
 
-  <action name="default" imageset="staff">
+  <action name="default" imageset="staff-blue">
   </action>
 
-  <action name="stand" imageset="staff">
+  <action name="stand" imageset="staff-blue">
     <animation direction="down">
       <frame index="0" offsetX ="0" offsetY ="32" />
     </animation>
@@ -20,7 +20,7 @@
     </animation>
   </action>
 
-  <action name="walk" imageset="staff">
+  <action name="walk" imageset="staff-blue">
     <animation direction="down">
       <sequence start="1" end="6" offsetX ="0" offsetY ="32" delay="75" />
     </animation>
@@ -35,7 +35,7 @@
     </animation>
   </action>
 
-  <action name="sit" imageset="staff">
+  <action name="sit" imageset="staff-blue">
     <animation direction="down">
       <frame index="7" offsetX ="0" offsetY ="32" />
     </animation>
@@ -50,7 +50,7 @@
     </animation>
   </action>
 
-  <action name="dead" imageset="staff">
+  <action name="dead" imageset="staff-blue">
     <animation direction="down">
       <frame index="12" offsetX ="0" offsetY ="32" />
     </animation>
@@ -65,7 +65,7 @@
     </animation>
   </action>
 
-  <action name="attack" imageset="staff">
+  <action name="attack" imageset="staff-blue">
     <animation direction="down">
       <sequence start="8" end="11" offsetX ="0" offsetY ="32" delay="75" />
       <end />
