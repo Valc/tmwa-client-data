@@ -920,7 +920,7 @@
   </object>
   <object name="To Dark Woods" type="warp" x="2368" y="640" width="64" height="32">
    <properties>
-    <property name="dest_map" value="0017-1"/>
+    <property name="dest_map" value="1017-1"/>
     <property name="dest_tile_x" value="188"/>
     <property name="dest_tile_y" value="103"/>
    </properties>

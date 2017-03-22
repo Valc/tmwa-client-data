@@ -760,7 +760,7 @@
 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 </data>
  </layer>
- <objectgroup name="Objects" visible="0">
+ <objectgroup name="Objects">
   <object name="BlackSlime" type="spawn" x="4224" y="1888" width="320" height="1344">
    <properties>
     <property name="eA_spawn" value="100000"/>
@@ -789,14 +789,6 @@
     <property name="monster_id" value="1718"/>
    </properties>
   </object>
-  <object name="Luvia" type="spawn" x="5344" y="608" width="576" height="640">
-   <properties>
-    <property name="eA_death" value="120000"/>
-    <property name="eA_spawn" value="30"/>
-    <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1102"/>
-   </properties>
-  </object>
   <object name="FeyElement" type="spawn" x="2464" y="1888" width="128" height="64">
    <properties>
     <property name="eA_spawn" value="100000"/>
@@ -814,7 +806,7 @@
   <object name="BallLightning" type="spawn" x="896" y="1568" width="1024" height="928">
    <properties>
     <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="10"/>
+    <property name="max_beings" value="5"/>
     <property name="monster_id" value="1070"/>
    </properties>
   </object>
@@ -878,7 +870,7 @@
   <object name="CloverPatch" type="spawn" x="5120" y="1440" width="448" height="320">
    <properties>
     <property name="eA_death" value="30000"/>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="35"/>
    </properties>
@@ -892,14 +884,14 @@
   </object>
   <object name="SeaSlimeMother" type="spawn" x="3680" y="1568" width="160" height="128">
    <properties>
-    <property name="eA_spawn" value="120000"/>
+    <property name="eA_spawn" value="12000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1115"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="2784" y="1344" width="608" height="384">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1132"/>
    </properties>
@@ -914,21 +906,21 @@
   </object>
   <object name="LavaSlime" type="spawn" x="1920" y="1664" width="1216" height="224">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="7"/>
     <property name="monster_id" value="1132"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="4480" y="640" width="352" height="320">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="3"/>
     <property name="monster_id" value="1132"/>
    </properties>
   </object>
   <object name="Scythe" type="spawn" x="1952" y="2592" width="480" height="576">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1069"/>
    </properties>
@@ -943,14 +935,13 @@
   <object name="graphics/particles/waterfall-1x3.particle.xml" type="particle_effect" x="3468" y="1290"/>
   <object name="CloverPatch" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="1000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="35"/>
    </properties>
   </object>
   <object name="ManaGhost" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="30"/>
+    <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="20"/>
     <property name="monster_id" value="1125"/>
    </properties>
@@ -958,7 +949,7 @@
   <object name="graphics/particles/bonfire.particle.xml" type="particle_effect" x="2080" y="2528" width="32" height="32"/>
   <object name="PsiBrain" type="spawn" x="4064" y="1952" width="480" height="1280">
    <properties>
-    <property name="eA_spawn" value="30"/>
+    <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1126"/>
    </properties>
