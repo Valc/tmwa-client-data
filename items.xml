@@ -503,7 +503,6 @@
     name="Blue Laser Staff"
     description="A bat made with blue light."
     type="equip-2hand"
-    attack-action="attack_sword_stab"
     attack-range="2"
     weight="500">
     <sprite>equipment/weapons/weapon-staff-blue.xml</sprite>
@@ -512,30 +511,27 @@
     image="equipment/weapon/weapon-staff-red.png"
     name="Red Laser Staff"
     description="A bat made with red light."
-    attack="145"
-    type="equip-1hand"
-    weapon-type="sword"
-    weight="50">
+    type="equip-2hand"
+    attack-range="2"
+    weight="500">
     <sprite>equipment/weapons/weapon-staff-red.xml</sprite>
   </item>
   <item id="3431"
     image="equipment/weapon/weapon-staff-purple.png"
     name="Purple Laser Staff"
     description="A bat made with purple light."
-    attack="163"
-    type="equip-1hand"
-    weapon-type="sword"
-    weight="50">
+    type="equip-2hand"
+    attack-range="2"
+    weight="500">
     <sprite>equipment/weapons/weapon-staff-purple.xml</sprite>
   </item>
   <item id="3432"
     image="equipment/weapon/weapon-staff-black.png"
     name="Black Laser Staff"
     description="A bat made with black light."
-    attack="180"
-    type="equip-1hand"
-    weapon-type="sword"
-    weight="50">
+    type="equip-2hand"
+    attack-range="2"
+    weight="500">
     <sprite>equipment/weapons/weapon-staff-black.xml</sprite>
   </item>
   <item id="3004"
