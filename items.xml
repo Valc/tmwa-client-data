@@ -499,7 +499,7 @@
     <sprite>equipment/weapons/weapon-staff-green.xml</sprite>
   </item>
   <item id="3429"
-    image="equipment/weapon/weapon-staff-blue.png"
+    image="equipment/weapon/weapon-staff-blue.png|R:#222255,6666ff"
     name="Blue Laser Staff"
     description="A bat made with blue light."
     type="equip-2hand"
