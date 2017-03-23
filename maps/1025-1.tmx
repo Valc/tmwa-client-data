@@ -828,36 +828,41 @@
   </object>
   <object name="TreasureBox" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="20000"/>
-    <property name="max_beings" value="34"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="4"/>
     <property name="monster_id" value="1718"/>
    </properties>
   </object>
   <object name="DemonicSpirit" type="spawn" x="768" y="2336" width="1152" height="864">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="3"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
     <property name="monster_id" value="1101"/>
    </properties>
   </object>
   <object name="DemonicSpirit" type="spawn" x="2144" y="1024" width="768" height="928">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="3"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
     <property name="monster_id" value="1101"/>
    </properties>
   </object>
   <object name="DemonicSpirit" type="spawn" x="1728" y="2432" width="1248" height="544">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="3"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
     <property name="monster_id" value="1101"/>
    </properties>
   </object>
   <object name="DemonicSpirit" type="spawn" x="768" y="800" width="1920" height="576">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="4"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
     <property name="monster_id" value="1101"/>
    </properties>
   </object>

@@ -661,22 +661,24 @@
   </object>
   <object name="ManaGhost" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="30"/>
-    <property name="max_beings" value="10"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="5"/>
     <property name="monster_id" value="1125"/>
    </properties>
   </object>
   <object name="ViciousSquirrel" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="20"/>
-    <property name="max_beings" value="30"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="15"/>
     <property name="monster_id" value="1105"/>
    </properties>
   </object>
   <object name="DemonicMouboo" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="0"/>
-    <property name="eA_spawn" value="0"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="5"/>
     <property name="monster_id" value="1104"/>
    </properties>

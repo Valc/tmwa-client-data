@@ -660,38 +660,41 @@
   </object>
   <object name="ManaGhost" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="30"/>
-    <property name="max_beings" value="10"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="5"/>
     <property name="monster_id" value="1125"/>
    </properties>
   </object>
   <object name="ViciousSquirrel" type="spawn" x="0" y="0">
    <properties>
+    <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="20"/>
-    <property name="max_beings" value="30"/>
+    <property name="max_beings" value="15"/>
     <property name="monster_id" value="1105"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="40"/>
-    <property name="max_beings" value="30"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="5"/>
     <property name="monster_id" value="1132"/>
    </properties>
   </object>
   <object name="Moonshroom" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="0"/>
-    <property name="eA_spawn" value="0"/>
-    <property name="max_beings" value="20"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="7"/>
     <property name="monster_id" value="1130"/>
    </properties>
   </object>
   <object name="TreasureBox" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="0"/>
-    <property name="eA_spawn" value="0"/>
-    <property name="max_beings" value="20"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="4"/>
     <property name="monster_id" value="1718"/>
    </properties>
   </object>
@@ -711,12 +714,12 @@
     <property name="monster_id" value="30"/>
    </properties>
   </object>
-  <object name="Silkworm" type="spawn" x="0" y="0">
+  <object name="WitchGuard" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="7000"/>
-    <property name="eA_spawn" value="15000"/>
-    <property name="max_beings" value="7"/>
-    <property name="monster_id" value="33"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1103"/>
    </properties>
   </object>
   <object name="MauvePlant" type="spawn" x="0" y="0">

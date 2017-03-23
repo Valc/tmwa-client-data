@@ -813,25 +813,28 @@
     <property name="dest_tile_y" value="10"/>
    </properties>
   </object>
-  <object name="PinkFlower" type="spawn" x="0" y="0">
+  <object name="TreasureBox" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="100"/>
-    <property name="max_beings" value="13"/>
-    <property name="monster_id" value="12"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="4"/>
+    <property name="monster_id" value="1718"/>
    </properties>
   </object>
-  <object name="SpikyMushroom" type="spawn" x="0" y="0">
+  <object name="Larvern" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="10"/>
-    <property name="max_beings" value="25"/>
-    <property name="monster_id" value="17"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="12"/>
+    <property name="monster_id" value="1087"/>
    </properties>
   </object>
-  <object name="Mouboo" type="spawn" x="0" y="0">
+  <object name="DemonicMouboo" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="10"/>
-    <property name="max_beings" value="20"/>
-    <property name="monster_id" value="26"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="10"/>
+    <property name="monster_id" value="1104"/>
    </properties>
   </object>
   <object name="MauvePlant" type="spawn" x="0" y="0">
@@ -881,20 +884,20 @@
     <property name="monster_id" value="35"/>
    </properties>
   </object>
-  <object name="Squirrel" type="spawn" x="0" y="0">
+  <object name="ViciousSquirrel" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="20"/>
-    <property name="eA_spawn" value="30"/>
-    <property name="max_beings" value="25"/>
-    <property name="monster_id" value="36"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="12"/>
+    <property name="monster_id" value="1105"/>
    </properties>
   </object>
-  <object name="Butterfly" type="spawn" x="0" y="0">
+  <object name="ManaGhost" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="20"/>
-    <property name="eA_spawn" value="30"/>
-    <property name="max_beings" value="20"/>
-    <property name="monster_id" value="53"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="10"/>
+    <property name="monster_id" value="1125"/>
    </properties>
   </object>
   <object name="graphics/particles/apple.particle.xml" type="particle_effect" x="2732" y="3308"/>

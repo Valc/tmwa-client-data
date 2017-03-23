@@ -687,33 +687,28 @@
     <property name="dest_tile_y" value="175"/>
    </properties>
   </object>
-  <object name="EvilMushroom" type="spawn" x="0" y="0">
-   <properties>
-    <property name="max_beings" value="30"/>
-    <property name="monster_id" value="11"/>
-   </properties>
-  </object>
-  <object name="PinkFlower" type="spawn" x="0" y="0">
-   <properties>
-    <property name="max_beings" value="20"/>
-    <property name="monster_id" value="12"/>
-   </properties>
-  </object>
-  <object name="SpikyMushroom" type="spawn" x="0" y="0">
+  <object name="WickedMushroom" type="spawn" x="0" y="0">
    <properties>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="17"/>
+    <property name="monster_id" value="1106"/>
    </properties>
   </object>
-  <object name="Snail" type="spawn" x="0" y="0">
+  <object name="TreasureBox" type="spawn" x="0" y="0">
    <properties>
-    <property name="max_beings" value="1"/>
-    <property name="monster_id" value="39"/>
+    <property name="max_beings" value="3"/>
+    <property name="monster_id" value="1718"/>
    </properties>
   </object>
-  <object name="Mouboo" type="spawn" x="0" y="0">
+  <object name="VampireBat" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="10"/>
+    <property name="max_beings" value="10"/>
+    <property name="monster_id" value="1066"/>
+   </properties>
+  </object>
+  <object name="DemonicMouboo" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="5"/>
     <property name="monster_id" value="26"/>
    </properties>
@@ -749,41 +744,44 @@
     <property name="monster_id" value="35"/>
    </properties>
   </object>
-  <object name="Squirrel" type="spawn" x="0" y="0">
+  <object name="HuntsmanSpider" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="20"/>
-    <property name="eA_spawn" value="30"/>
-    <property name="max_beings" value="25"/>
-    <property name="monster_id" value="36"/>
-   </properties>
-  </object>
-  <object name="Butterfly" type="spawn" x="0" y="0">
-   <properties>
-    <property name="eA_death" value="20"/>
-    <property name="eA_spawn" value="30"/>
-    <property name="max_beings" value="10"/>
-    <property name="monster_id" value="53"/>
-   </properties>
-  </object>
-  <object name="Mouboo" type="spawn" x="0" y="0">
-   <properties>
-    <property name="eA_death" value="10"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="26"/>
+    <property name="monster_id" value="1083"/>
    </properties>
   </object>
-  <object name="ManaBug" type="spawn" x="32" y="32">
+  <object name="ManaGhost" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="30"/>
-    <property name="max_beings" value="18"/>
-    <property name="monster_id" value="1131"/>
-   </properties>
-  </object>
-  <object name="Maggot" type="spawn" x="2400" y="960" width="1152" height="928">
-   <properties>
-    <property name="eA_spawn" value="30"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="10"/>
-    <property name="monster_id" value="1002"/>
+    <property name="monster_id" value="1125"/>
+   </properties>
+  </object>
+  <object name="DemonicMouboo" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="5"/>
+    <property name="monster_id" value="1104"/>
+   </properties>
+  </object>
+  <object name="Larvern" type="spawn" x="32" y="32">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="18"/>
+    <property name="monster_id" value="1087"/>
+   </properties>
+  </object>
+  <object name="VampireBat" type="spawn" x="2400" y="960" width="1152" height="928">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="10"/>
+    <property name="monster_id" value="1066"/>
    </properties>
   </object>
  </objectgroup>

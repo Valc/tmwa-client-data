@@ -783,12 +783,12 @@
 </data>
  </layer>
  <objectgroup name="Objects">
-  <object name="Butterfly" type="spawn" x="1836" y="2036" width="750" height="654">
+  <object name="ManaGhost" type="spawn" x="1836" y="2036" width="750" height="654">
    <properties>
-    <property name="eA_death" value="85000"/>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="16"/>
-    <property name="monster_id" value="53"/>
+    <property name="monster_id" value="1125"/>
    </properties>
   </object>
   <object name="To Dark Woodland Hills" type="warp" x="704" y="1600" width="32" height="128">
@@ -806,20 +806,20 @@
     <property name="monster_id" value="33"/>
    </properties>
   </object>
-  <object name="Squirrel" type="spawn" x="1204" y="716" width="2750" height="602">
+  <object name="RedSpark" type="spawn" x="1204" y="716" width="2750" height="602">
    <properties>
-    <property name="eA_death" value="45000"/>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="10"/>
-    <property name="monster_id" value="36"/>
+    <property name="monster_id" value="1081"/>
    </properties>
   </object>
-  <object name="Mouboo" type="spawn" x="0" y="0">
+  <object name="DemonicMouboo" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="85000"/>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="15"/>
-    <property name="monster_id" value="26"/>
+    <property name="monster_id" value="1104"/>
    </properties>
   </object>
   <object name="CloverPatch" type="spawn" x="2819" y="1511" width="244" height="180">
@@ -846,12 +846,12 @@
     <property name="monster_id" value="35"/>
    </properties>
   </object>
-  <object name="Snail" type="spawn" x="1268" y="714" width="2681" height="833">
+  <object name="BlueSpark" type="spawn" x="1268" y="714" width="2681" height="833">
    <properties>
-    <property name="eA_death" value="85000"/>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="3"/>
-    <property name="monster_id" value="39"/>
+    <property name="monster_id" value="1080"/>
    </properties>
   </object>
   <object name="AlizarinPlant" type="spawn" x="1993" y="1936" width="588" height="806">
@@ -894,28 +894,28 @@
     <property name="monster_id" value="29"/>
    </properties>
   </object>
-  <object name="PinkFlower" type="spawn" x="3678" y="1896" width="188" height="126">
+  <object name="BlueSpark" type="spawn" x="3678" y="1896" width="188" height="126">
    <properties>
-    <property name="eA_death" value="45000"/>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="12"/>
+    <property name="monster_id" value="1080"/>
    </properties>
   </object>
-  <object name="PinkFlower" type="spawn" x="3049" y="1908" width="183" height="116">
+  <object name="BlueSpark" type="spawn" x="3049" y="1908" width="183" height="116">
    <properties>
-    <property name="eA_death" value="45000"/>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="12"/>
+    <property name="monster_id" value="1080"/>
    </properties>
   </object>
-  <object name="PinkFlower" type="spawn" x="1708" y="2109" width="787" height="590">
+  <object name="TreasureBox" type="spawn" x="1708" y="2109" width="787" height="590">
    <properties>
-    <property name="eA_death" value="45000"/>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="12"/>
+    <property name="monster_id" value="1718"/>
    </properties>
   </object>
   <object name="To Dark Woods" type="warp" x="2368" y="640" width="64" height="32">
@@ -925,12 +925,12 @@
     <property name="dest_tile_y" value="103"/>
    </properties>
   </object>
-  <object name="SpikyMushroom" type="spawn" x="0" y="0">
+  <object name="GreenSlimeMother" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_death" value="60000"/>
-    <property name="eA_spawn" value="10000"/>
-    <property name="max_beings" value="7"/>
-    <property name="monster_id" value="17"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1118"/>
    </properties>
   </object>
   <object name="To Dark Woodland" type="warp" x="4768" y="1984" width="32" height="96">
@@ -940,8 +940,6 @@
     <property name="dest_tile_y" value="63"/>
    </properties>
   </object>
-  <object name="Pumpkin" type="node" x="1312" y="704" width="224" height="288"/>
-  <object name="Pumpkin" type="node" x="4256" y="864" width="224" height="224"/>
   <object name="Pumpkin" type="node" x="4128" y="736" width="224" height="128"/>
  </objectgroup>
 </map>

@@ -1055,81 +1055,90 @@
     <property name="monster_id" value="1124"/>
    </properties>
   </object>
-  <object name="RedBone" type="spawn" x="672" y="1744" width="1064" height="696">
+  <object name="GeneralKrukan" type="spawn" x="872" y="2200" width="272" height="176">
    <properties>
-    <property name="eA_death" value="8000"/>
-    <property name="eA_spawn" value="60000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="2"/>
-    <property name="monster_id" value="1074"/>
+    <property name="monster_id" value="1127"/>
    </properties>
   </object>
   <object name="Wight" type="spawn" x="1792" y="960" width="1024" height="736">
    <properties>
-    <property name="eA_spawn" value="175000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1124"/>
    </properties>
   </object>
   <object name="RedBone" type="spawn" x="1792" y="960" width="1024" height="736">
    <properties>
-    <property name="eA_death" value="20000"/>
-    <property name="eA_spawn" value="175000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1074"/>
    </properties>
   </object>
   <object name="Wight" type="spawn" x="672" y="960" width="1088" height="736">
    <properties>
-    <property name="eA_spawn" value="180000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="4"/>
     <property name="monster_id" value="1124"/>
    </properties>
   </object>
   <object name="RedBone" type="spawn" x="672" y="960" width="1088" height="736">
    <properties>
-    <property name="eA_spawn" value="180000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="4"/>
     <property name="monster_id" value="1074"/>
    </properties>
   </object>
   <object name="Wight" type="spawn" x="2848" y="960" width="1056" height="704">
    <properties>
-    <property name="eA_spawn" value="35000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1124"/>
    </properties>
   </object>
   <object name="RedBone" type="spawn" x="2848" y="960" width="1056" height="704">
    <properties>
-    <property name="eA_spawn" value="33000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="3"/>
     <property name="monster_id" value="1074"/>
    </properties>
   </object>
   <object name="Wight" type="spawn" x="1784" y="1728" width="1024" height="688">
    <properties>
-    <property name="eA_spawn" value="60000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1124"/>
    </properties>
   </object>
   <object name="RedBone" type="spawn" x="1784" y="1728" width="1024" height="704">
    <properties>
-    <property name="eA_spawn" value="60000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1074"/>
    </properties>
   </object>
   <object name="GeneralTerogan" type="spawn" x="2872" y="1736" width="1024" height="688">
    <properties>
-    <property name="eA_spawn" value="60000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1129"/>
    </properties>
   </object>
   <object name="RedBone" type="spawn" x="2872" y="1736" width="1024" height="704">
    <properties>
-    <property name="eA_spawn" value="60000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1074"/>
    </properties>

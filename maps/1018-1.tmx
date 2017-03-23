@@ -763,50 +763,57 @@
  <objectgroup name="Objects">
   <object name="BlackSlime" type="spawn" x="4224" y="1888" width="320" height="1344">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="10"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="5"/>
     <property name="monster_id" value="1719"/>
    </properties>
   </object>
   <object name="ManaGhost" type="spawn" x="2624" y="2400" width="1728" height="832">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="10"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="5"/>
     <property name="monster_id" value="1125"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="3616" y="1312" width="224" height="256">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="3"/>
     <property name="monster_id" value="1132"/>
    </properties>
   </object>
   <object name="TreasureBox" type="spawn" x="3616" y="1696" width="448" height="224">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_death" value="19000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1718"/>
    </properties>
   </object>
   <object name="FeyElement" type="spawn" x="2464" y="1888" width="128" height="64">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1086"/>
    </properties>
   </object>
   <object name="Larvern" type="spawn" x="1600" y="1920" width="480" height="256">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1087"/>
    </properties>
   </object>
   <object name="BallLightning" type="spawn" x="896" y="1568" width="1024" height="928">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="5"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
     <property name="monster_id" value="1070"/>
    </properties>
   </object>
@@ -819,50 +826,56 @@
   </object>
   <object name="DemonicSpirit" type="spawn" x="4000" y="1088" width="608" height="352">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="4"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="2"/>
     <property name="monster_id" value="1101"/>
    </properties>
   </object>
   <object name="DemonicSpirit" type="spawn" x="3840" y="1184" width="320" height="384">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1101"/>
    </properties>
   </object>
   <object name="DemonicSpirit" type="spawn" x="3616" y="480" width="736" height="320">
    <properties>
-    <property name="eA_spawn" value="1111"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="3"/>
     <property name="monster_id" value="1101"/>
    </properties>
   </object>
   <object name="DemonicSpirit" type="spawn" x="3616" y="800" width="640" height="320">
    <properties>
-    <property name="eA_death" value="50000"/>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1101"/>
    </properties>
   </object>
   <object name="BlueSpark" type="spawn" x="4608" y="1312" width="352" height="288">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="5"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="3"/>
     <property name="monster_id" value="1080"/>
    </properties>
   </object>
   <object name="RedSpark" type="spawn" x="5088" y="1344" width="672" height="352">
    <properties>
-    <property name="eA_spawn" value="120000"/>
-    <property name="max_beings" value="4"/>
+    <property name="eA_death" value="19000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="2"/>
     <property name="monster_id" value="1081"/>
    </properties>
   </object>
   <object name="Scythe" type="spawn" x="4160" y="1440" width="448" height="288">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1069"/>
    </properties>
@@ -877,21 +890,24 @@
   </object>
   <object name="Hyvern" type="spawn" x="3488" y="1952" width="192" height="96">
    <properties>
-    <property name="eA_spawn" value="60000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1088"/>
    </properties>
   </object>
   <object name="SeaSlimeMother" type="spawn" x="3680" y="1568" width="160" height="128">
    <properties>
-    <property name="eA_spawn" value="12000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1115"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="2784" y="1344" width="608" height="384">
    <properties>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1132"/>
    </properties>
@@ -906,29 +922,33 @@
   </object>
   <object name="LavaSlime" type="spawn" x="1920" y="1664" width="1216" height="224">
    <properties>
-    <property name="eA_spawn" value="10000"/>
-    <property name="max_beings" value="7"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="3"/>
     <property name="monster_id" value="1132"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="4480" y="640" width="352" height="320">
    <properties>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="3"/>
     <property name="monster_id" value="1132"/>
    </properties>
   </object>
   <object name="Scythe" type="spawn" x="1952" y="2592" width="480" height="576">
    <properties>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1069"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="4960" y="704" width="384" height="608">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="5"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="2"/>
     <property name="monster_id" value="1132"/>
    </properties>
   </object>
@@ -941,15 +961,17 @@
   </object>
   <object name="ManaGhost" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="20"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="10"/>
     <property name="monster_id" value="1125"/>
    </properties>
   </object>
   <object name="graphics/particles/bonfire.particle.xml" type="particle_effect" x="2080" y="2528" width="32" height="32"/>
   <object name="PsiBrain" type="spawn" x="4064" y="1952" width="480" height="1280">
    <properties>
-    <property name="eA_spawn" value="100000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1126"/>
    </properties>

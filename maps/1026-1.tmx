@@ -1032,43 +1032,33 @@
   </object>
   <object name="Zombie" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="120000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="3"/>
     <property name="monster_id" value="1036"/>
    </properties>
   </object>
   <object name="PsiBrain" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="300000"/>
-    <property name="max_beings" value="10"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
     <property name="monster_id" value="1126"/>
    </properties>
   </object>
   <object name="ManaGhost" type="spawn" x="0" y="0">
    <properties>
-    <property name="eA_spawn" value="300000"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="8"/>
     <property name="monster_id" value="1125"/>
    </properties>
   </object>
-  <object name="FeyElement" type="spawn" x="3040" y="704" width="1024" height="2400">
-   <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="4"/>
-    <property name="monster_id" value="1086"/>
-   </properties>
-  </object>
   <object name="FeyElement" type="spawn" x="736" y="2016" width="2240" height="1056">
    <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="4"/>
-    <property name="monster_id" value="1086"/>
-   </properties>
-  </object>
-  <object name="FeyElement" type="spawn" x="672" y="800" width="1760" height="416">
-   <properties>
-    <property name="eA_spawn" value="100000"/>
-    <property name="max_beings" value="4"/>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="90000"/>
+    <property name="max_beings" value="1"/>
     <property name="monster_id" value="1086"/>
    </properties>
   </object>
