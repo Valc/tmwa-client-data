@@ -940,6 +940,5 @@
     <property name="dest_tile_y" value="63"/>
    </properties>
   </object>
-  <object name="Pumpkin" type="node" x="4128" y="736" width="224" height="128"/>
  </objectgroup>
 </map>

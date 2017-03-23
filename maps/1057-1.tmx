@@ -1041,7 +1041,7 @@
     <property name="monster_id" value="1086"/>
    </properties>
   </object>
-  <object name="To dark Woodland Hills" type="warp" x="608" y="1984" width="32" height="96">
+  <object name="To dark Woodland Hills" type="warp" x="608" y="1992" width="32" height="64">
    <properties>
     <property name="dest_map" value="1055-1"/>
     <property name="dest_tile_x" value="148"/>
@@ -1064,6 +1064,5 @@
     <property name="monster_id" value="1105"/>
    </properties>
   </object>
-  <object name="Pumpkin" type="node" x="800" y="800" width="352" height="416"/>
  </objectgroup>
 </map>

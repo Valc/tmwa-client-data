@@ -1057,9 +1057,9 @@
   </object>
   <object name="GeneralKrukan" type="spawn" x="872" y="2200" width="272" height="176">
    <properties>
-    <property name="eA_death" value="18000"/>
+    <property name="eA_death" value="180000"/>
     <property name="eA_spawn" value="9000"/>
-    <property name="max_beings" value="2"/>
+    <property name="max_beings" value="1"/>
     <property name="monster_id" value="1127"/>
    </properties>
   </object>
@@ -1129,7 +1129,7 @@
   </object>
   <object name="GeneralTerogan" type="spawn" x="2872" y="1736" width="1024" height="688">
    <properties>
-    <property name="eA_death" value="18000"/>
+    <property name="eA_death" value="180000"/>
     <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1129"/>
