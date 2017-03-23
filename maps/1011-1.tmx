@@ -710,7 +710,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="26"/>
+    <property name="monster_id" value="1104"/>
    </properties>
   </object>
   <object name="MauvePlant" type="spawn" x="0" y="0">
