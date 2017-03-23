@@ -89,12 +89,111 @@
   </data>
  </layer>
  <objectgroup name="Objects">
-  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="1566" y="5569" width="32" height="32"/>
-  <object name="Lost Island" type="warp" x="1566" y="5569" width="32" height="32">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="1568" y="5568" width="32" height="32"/>
+  <object name="Lost Island" type="warp" x="1568" y="5568" width="32" height="32">
    <properties>
     <property name="dest_map" value="066-1"/>
-    <property name="dest_tile_x" value="101"/>
-    <property name="dest_tile_y" value="111"/>
+    <property name="dest_tile_x" value="62"/>
+    <property name="dest_tile_y" value="43"/>
+   </properties>
+  </object>
+  <object name="EvilMushroom" type="spawn" x="13" y="14">
+   <properties>
+    <property name="max_beings" value="30"/>
+    <property name="monster_id" value="11"/>
+   </properties>
+  </object>
+  <object name="PinkFlower" type="spawn" x="13" y="14">
+   <properties>
+    <property name="max_beings" value="20"/>
+    <property name="monster_id" value="12"/>
+   </properties>
+  </object>
+  <object name="SpikyMushroom" type="spawn" x="13" y="14">
+   <properties>
+    <property name="max_beings" value="5"/>
+    <property name="monster_id" value="17"/>
+   </properties>
+  </object>
+  <object name="Snail" type="spawn" x="13" y="14">
+   <properties>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="39"/>
+   </properties>
+  </object>
+  <object name="Mouboo" type="spawn" x="13" y="14">
+   <properties>
+    <property name="eA_death" value="10"/>
+    <property name="max_beings" value="5"/>
+    <property name="monster_id" value="26"/>
+   </properties>
+  </object>
+  <object name="MauvePlant" type="spawn" x="13" y="14">
+   <properties>
+    <property name="eA_death" value="180000"/>
+    <property name="eA_spawn" value="270000"/>
+    <property name="max_beings" value="3"/>
+    <property name="monster_id" value="27"/>
+   </properties>
+  </object>
+  <object name="AlizarinPlant" type="spawn" x="13" y="14">
+   <properties>
+    <property name="eA_death" value="1800000"/>
+    <property name="eA_spawn" value="2700000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="30"/>
+   </properties>
+  </object>
+  <object name="Silkworm" type="spawn" x="13" y="14">
+   <properties>
+    <property name="eA_death" value="30000"/>
+    <property name="eA_spawn" value="60000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="33"/>
+   </properties>
+  </object>
+  <object name="CloverPatch" type="spawn" x="13" y="14">
+   <properties>
+    <property name="eA_death" value="1000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="35"/>
+   </properties>
+  </object>
+  <object name="Squirrel" type="spawn" x="13" y="14">
+   <properties>
+    <property name="eA_death" value="20"/>
+    <property name="eA_spawn" value="30"/>
+    <property name="max_beings" value="25"/>
+    <property name="monster_id" value="36"/>
+   </properties>
+  </object>
+  <object name="Butterfly" type="spawn" x="13" y="14">
+   <properties>
+    <property name="eA_death" value="20"/>
+    <property name="eA_spawn" value="30"/>
+    <property name="max_beings" value="10"/>
+    <property name="monster_id" value="53"/>
+   </properties>
+  </object>
+  <object name="Mouboo" type="spawn" x="13" y="14">
+   <properties>
+    <property name="eA_death" value="10"/>
+    <property name="max_beings" value="5"/>
+    <property name="monster_id" value="26"/>
+   </properties>
+  </object>
+  <object name="ManaBug" type="spawn" x="13" y="14">
+   <properties>
+    <property name="eA_spawn" value="30"/>
+    <property name="max_beings" value="18"/>
+    <property name="monster_id" value="1131"/>
+   </properties>
+  </object>
+  <object name="Maggot" type="spawn" x="13" y="13">
+   <properties>
+    <property name="eA_spawn" value="30"/>
+    <property name="max_beings" value="10"/>
+    <property name="monster_id" value="1002"/>
    </properties>
   </object>
  </objectgroup>
