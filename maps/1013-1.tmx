@@ -921,7 +921,7 @@
   </object>
   <object name="To Woodland Hills" type="warp" x="4352" y="1600" width="32" height="128">
    <properties>
-    <property name="dest_map" value="055-1"/>
+    <property name="dest_map" value="1055-1"/>
     <property name="dest_tile_x" value="25"/>
     <property name="dest_tile_y" value="52"/>
    </properties>
