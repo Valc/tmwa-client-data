@@ -36,6 +36,7 @@
  <tileset firstgid="1275" name="trans_woodland_desert" tilewidth="32" tileheight="32">
   <image source="../graphics/tiles/trans_woodland_desert.png" width="512" height="256"/>
  </tileset>
+ <tileset firstgid="1403" source="../tilesets/warp_gates.tsx"/>
  <layer name="Ground 0" width="180" height="150">
   <data encoding="base64" compression="gzip">
    H4sIAAAAAAAAA+3DMQ0AAAwDoD6TWf82amMHJPSSqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrq0wNVmXBQ4KUBAA==
@@ -53,7 +54,7 @@
  </layer>
  <layer name="Fringe" width="180" height="150">
   <data encoding="base64" compression="gzip">
-   H4sIAAAAAAAAA+3bSVKEMBQA0FR1b50vgOMV1GvqDfSGzroyi7Z61UgDIYS8V/W3IR1+kt8BQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgtSbGee5OQAZNkPsAAABLdBDjMEG7L6sQXmO8rRI0DjPxHvP7I8bnwDw3XyiFXAVqlapmBvrpUoerW5Zl6P20jlOiJnhHA4bosneoF2C3sc6+ycP9A5gH9SZAfktbi9X60J/5U7Z9n/WVvv4/xH4/Ftr3mu1aZ6bKx33Xuan69RTbf+55jdLnMkCt1N7jqWkvrOm31sR7m9TEOtbNrnFqqx+M7XBN8D4ypHC6CSjZSYyjGNebOI5xlrVH0N9V2ObyX9wkvubY52B92nMWl16O/yQ58rmLMfJtrPH0X7Ecc83nNvJrvnLve7cxLsI2ly9j3A9sU76R290mlir3ugEsm3283ZDxMbZAGzUeLJcaAP5nnqRjbGF6bbX91zqE7xg/6+n7RZl8uwIAANPxrIYSDD3vc15IyZrgm3LmQc1ALZpg3QUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJjCL6olpGjgpQEA
+   H4sIAAAAAAAAA+3bS1LbQBQF0K6yPQwEsgEFCFsgrC3JCiATGEImYYcJvzDiDZzyyPJHn1ZL51TdGdVu2k+t57acEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdqyKfc08CMqiS2gcAABijD5GDDsb9M0vpb+Rx1sHgMBBPUd/PkZeGde56oRRqFRibb4uUvkd+LOr/rqueGdp0FXV8Hfm5oZ7HYJs+XN9Struo4/vIr2U9N30/7eOUqEqe0YAmtrl36BdgvbbOvsnD+wcwDPpNgPzGthfr9WF/rp+y7fpdX+n7/03M+7bQuU/Zun2mr3rcdZ/ra16/Y/yHPV+j9GsZYKr03u2Z0r1wSv/rlHhukymxj21n3TrV9Q/WtrkqeR4ZunC8DJTsKHIY+bLMx8inrDOC/Z2lVS3/z3nHr9n2Odg+4zmL616OzyQ56nkbbdRbW+vps2I5hlrPddTXcOW+711ETtKqlk8jlw3HVG/k9nWZscq9bwDj5j5er8n6WFugjh4PxksPAJu5TrpjbaF/db396zylf5G3ef/zokx+uwIAAP3xXQ0laHre57yQklXJb8oZBj0DU1El+y4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAf3gH3zKZf4KUBAA==
   </data>
  </layer>
  <layer name="Over" width="180" height="150">
@@ -61,9 +62,9 @@
    H4sIAAAAAAAAA+3aSUoDQQCF4Y6ze3HWrcPCaanu1KN4Ic/g0aKJR3DnEzrQBjEJkXQsvw9+4rIWj6LArioAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmJ1ep6r66bXT9klgtOfs9KXebL/x9+C3yaaZV71v9jrKuz3Tkknu3XHZMyWxZ0rjDU1J3NGUxJ4piT1TGm9oSuKOpiT2TEnsmdJ4Q1Mam6Yk3h2UZF72/Pmt4NucnIW/q8099xrfCz7Vef8wrVlvqDe04eHc00xrVpvu/rDjQfAb+u5GAAAAAAAAAPhzuvV3Uv7nPx8W0mJaSstpJa2mtbTe4rlgUhv172baSttpJ+2mvbSfDtJhK6eDyRyl43SSTtNjo7N0ni7SZbpq6Ywwrut0k26rr1tudpfu00NLZwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOB/+wDEvqAR4KUBAA==
   </data>
  </layer>
- <layer name="Collision" width="180" height="150" visible="0">
+ <layer name="Collision" width="180" height="150">
   <data encoding="base64" compression="gzip">
-   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
+   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
   </data>
  </layer>
  <objectgroup name="Objects">
@@ -78,8 +79,8 @@
   <object name="Lost Island" type="warp" x="1600" y="1536" width="32" height="32">
    <properties>
     <property name="dest_map" value="066-1"/>
-    <property name="dest_tile_x" value="180"/>
-    <property name="dest_tile_y" value="21"/>
+    <property name="dest_tile_x" value="178"/>
+    <property name="dest_tile_y" value="20"/>
    </properties>
   </object>
   <object name="TreasureBox" type="spawn" x="0" y="0">
