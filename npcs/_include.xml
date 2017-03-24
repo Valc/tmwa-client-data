@@ -226,4 +226,5 @@
   <include name="npcs/npc601.xml"/>
   <include name="npcs/npc602.xml"/>
   <include name="npcs/npc603.xml"/>
+  <include name="npcs/npc603.xml"/>
 </npcs>
