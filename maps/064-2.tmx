@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="170" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="minimap" value=""/>
+  <property name="name" value="Kingdom Cave"/>
+ </properties>
  <tileset firstgid="1" name="cave2" tilewidth="32" tileheight="32">
   <image source="../graphics/tiles/cave2.png" width="512" height="256"/>
   <terraintypes>
