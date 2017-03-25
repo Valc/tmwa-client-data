@@ -199,7 +199,7 @@
   </object>
   <object name="Kingdom's Cave" type="warp" x="3456" y="4032" width="64" height="32">
    <properties>
-    <property name="dest_map" value="064-1"/>
+    <property name="dest_map" value="064-2"/>
     <property name="dest_tile_x" value="96"/>
     <property name="dest_tile_y" value="165"/>
    </properties>
